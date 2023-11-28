@@ -1,0 +1,101 @@
+,Symptoms,Count
+0,COVID-19,2847
+1,No adverse event,1995
+2,SARS-CoV-2 test positive,1589
+3,Product storage error,1211
+4,Expired product administered,1097
+5,Drug ineffective,904
+6,SARS-CoV-2 test,847
+7,Incorrect product formulation administered,652
+8,Dyspnoea,568
+9,Fatigue,565
+10,Pyrexia,541
+11,Cough,487
+12,Pain,409
+13,Vaccine breakthrough infection,407
+14,Headache,395
+15,Death,359
+16,Asthenia,325
+17,Dizziness,281
+18,Poor quality product administered,279
+19,Pain in extremity,270
+20,Condition aggravated,270
+21,Underdose,255
+22,Malaise,254
+23,Interchange of vaccine products,245
+24,Chills,238
+25,Chest pain,235
+26,Laboratory test,218
+27,Vaccination failure,218
+28,Blood test,209
+29,Nausea,208
+30,Arthralgia,202
+31,Feeling abnormal,189
+32,Acute respiratory failure,184
+33,Pneumonia,163
+34,Respiratory tract congestion,161
+35,Cerebrovascular accident,160
+36,Wrong product administered,152
+37,Product preparation issue,151
+38,Oropharyngeal pain,150
+39,Rash,144
+40,Vomiting,142
+41,Tinnitus,141
+42,Chest X-ray abnormal,140
+43,Diarrhoea,139
+44,Palpitations,138
+45,Magnetic resonance imaging,137
+46,Computerised tomogram,131
+47,Rhinorrhoea,130
+48,Fall,130
+49,Hypoxia,125
+50,Inappropriate schedule of product administration,122
+51,Atrial fibrillation,119
+52,Electrocardiogram,119
+53,Unevaluable event,118
+54,Myalgia,117
+55,COVID-19 pneumonia,115
+56,Mobility decreased,112
+57,Heart rate increased,111
+58,Product temperature excursion issue,107
+59,Acute kidney injury,107
+60,Echocardiogram,105
+61,Anticoagulant therapy,104
+62,Hypoaesthesia,103
+63,Paraesthesia,100
+64,Pruritus,100
+65,Gait disturbance,98
+66,Hypertension,95
+67,Intensive care,95
+68,Sepsis,90
+69,SARS-CoV-2 test negative,90
+70,Decreased appetite,88
+71,Chest X-ray normal,87
+72,Tachycardia,86
+73,Loss of personal independence in daily activities,85
+74,Peripheral swelling,84
+75,Mental status changes,84
+76,Illness,83
+77,Thrombosis,83
+78,Respiratory failure,83
+79,Suspected COVID-19,82
+80,Chest discomfort,81
+81,Echocardiogram abnormal,81
+82,Urticaria,81
+83,Laboratory test normal,77
+84,Impaired work ability,77
+85,Electrocardiogram abnormal,76
+86,Urinary tract infection,75
+87,Confusional state,75
+88,Blood creatinine increased,75
+89,Lymphadenopathy,73
+90,Incorrect dose administered,73
+91,Chest X-ray,71
+92,Syncope,70
+93,Anxiety,70
+94,Back pain,69
+95,Abdominal pain,69
+96,Muscular weakness,68
+97,Laboratory test abnormal,68
+98,Injection site pain,67
+99,Tremor,67

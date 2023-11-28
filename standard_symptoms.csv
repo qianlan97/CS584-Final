@@ -1,0 +1,3409 @@
+,Symptoms,Count
+0,COVID-19,2847
+1,No adverse event,1995
+2,SARS-CoV-2 test positive,1589
+3,Product storage error,1211
+4,Expired product administered,1097
+5,Drug ineffective,904
+6,SARS-CoV-2 test,847
+7,Incorrect product formulation administered,652
+8,Dyspnoea,568
+9,Fatigue,565
+10,Pyrexia,541
+11,Cough,487
+12,Pain,409
+13,Vaccine breakthrough infection,407
+14,Headache,395
+15,Death,359
+16,Asthenia,325
+17,Dizziness,281
+18,Poor quality product administered,279
+19,Pain in extremity,270
+20,Condition aggravated,270
+21,Underdose,255
+22,Malaise,254
+23,Interchange of vaccine products,245
+24,Chills,238
+25,Chest pain,235
+26,Laboratory test,218
+27,Vaccination failure,218
+28,Blood test,209
+29,Nausea,208
+30,Arthralgia,202
+31,Feeling abnormal,189
+32,Acute respiratory failure,184
+33,Pneumonia,163
+34,Respiratory tract congestion,161
+35,Cerebrovascular accident,160
+36,Wrong product administered,152
+37,Product preparation issue,151
+38,Oropharyngeal pain,150
+39,Rash,144
+40,Vomiting,142
+41,Tinnitus,141
+42,Chest X-ray abnormal,140
+43,Diarrhoea,139
+44,Palpitations,138
+45,Magnetic resonance imaging,137
+46,Computerised tomogram,131
+47,Rhinorrhoea,130
+48,Fall,130
+49,Hypoxia,125
+50,Inappropriate schedule of product administration,122
+51,Atrial fibrillation,119
+52,Electrocardiogram,119
+53,Unevaluable event,118
+54,Myalgia,117
+55,COVID-19 pneumonia,115
+56,Mobility decreased,112
+57,Heart rate increased,111
+58,Product temperature excursion issue,107
+59,Acute kidney injury,107
+60,Echocardiogram,105
+61,Anticoagulant therapy,104
+62,Hypoaesthesia,103
+63,Paraesthesia,100
+64,Pruritus,100
+65,Gait disturbance,98
+66,Hypertension,95
+67,Intensive care,95
+68,Sepsis,90
+69,SARS-CoV-2 test negative,90
+70,Decreased appetite,88
+71,Chest X-ray normal,87
+72,Tachycardia,86
+73,Loss of personal independence in daily activities,85
+74,Peripheral swelling,84
+75,Mental status changes,84
+76,Illness,83
+77,Thrombosis,83
+78,Respiratory failure,83
+79,Suspected COVID-19,82
+80,Chest discomfort,81
+81,Echocardiogram abnormal,81
+82,Urticaria,81
+83,Laboratory test normal,77
+84,Impaired work ability,77
+85,Electrocardiogram abnormal,76
+86,Urinary tract infection,75
+87,Confusional state,75
+88,Blood creatinine increased,75
+89,Lymphadenopathy,73
+90,Incorrect dose administered,73
+91,Chest X-ray,71
+92,Syncope,70
+93,Anxiety,70
+94,Back pain,69
+95,Abdominal pain,69
+96,Muscular weakness,68
+97,Laboratory test abnormal,68
+98,Injection site pain,67
+99,Tremor,67
+100,Hypotension,66
+101,Nasopharyngitis,65
+102,Hyperhidrosis,65
+103,Full blood count,65
+104,Erythema,64
+105,Nasal congestion,63
+106,Vaccination site pain,62
+107,Computerised tomogram thorax abnormal,61
+108,Insomnia,60
+109,X-ray,59
+110,Weight decreased,59
+111,Lethargy,58
+112,Electrocardiogram normal,58
+113,Endotracheal intubation,58
+114,Haemoglobin decreased,58
+115,Migraine,57
+116,Influenza like illness,57
+117,Investigation,57
+118,Blood test normal,55
+119,General physical health deterioration,55
+120,Troponin increased,55
+121,Metabolic function test,55
+122,Dehydration,54
+123,Loss of consciousness,53
+124,Magnetic resonance imaging head abnormal,53
+125,Pleural effusion,53
+126,Pulmonary embolism,51
+127,Blood test abnormal,50
+128,COVID-19 immunisation,50
+129,Blood pressure increased,50
+130,Productive cough,50
+131,Ultrasound scan,49
+132,White blood cell count increased,49
+133,Magnetic resonance imaging head,48
+134,Vision blurred,48
+135,Dysphagia,48
+136,Body temperature,47
+137,Gait inability,47
+138,Product administered to patient of inappropriate age,47
+139,Computerised tomogram head normal,47
+140,Seizure,47
+141,Chronic obstructive pulmonary disease,46
+142,Cardiac failure congestive,46
+143,Computerised tomogram head abnormal,45
+144,Cardiac disorder,45
+145,Balance disorder,45
+146,Angiogram pulmonary abnormal,45
+147,Vertigo,44
+148,Sleep disorder,43
+149,Visual impairment,43
+150,Herpes zoster,42
+151,Muscle spasms,42
+152,Blood pressure measurement,42
+153,Positive airway pressure therapy,42
+154,Neck pain,41
+155,Urine analysis,41
+156,Lung infiltration,41
+157,Abdominal pain upper,41
+158,Urine analysis abnormal,40
+159,Blood glucose normal,40
+160,Weight,40
+161,Inflammation,40
+162,Myocardial infarction,40
+163,Ischaemic stroke,40
+164,Blood glucose increased,40
+165,Circumstance or information capable of leading to medication error,39
+166,Computerised tomogram abdomen abnormal,39
+167,Anion gap,39
+168,Feeling hot,38
+169,Hypersensitivity,38
+170,Lung opacity,38
+171,Throat irritation,38
+172,Extra dose administered,38
+173,Hypophagia,38
+174,Speech disorder,37
+175,Wheezing,37
+176,Swelling,36
+177,Myocarditis,36
+178,Immunisation reaction,36
+179,Burning sensation,36
+180,Influenza virus test negative,36
+181,Discomfort,36
+182,Oedema peripheral,36
+183,Leukocytosis,36
+184,Ageusia,35
+185,Blood sodium decreased,35
+186,Exposure to SARS-CoV-2,34
+187,Influenza,34
+188,Aphasia,34
+189,Heart rate,34
+190,Glycosylated haemoglobin increased,34
+191,Blood potassium normal,34
+192,Cardiac arrest,34
+193,Hyperglycaemia,34
+194,Immediate post-injection reaction,33
+195,Rash pruritic,33
+196,Dyspnoea exertional,33
+197,Anaemia,33
+198,Transient ischaemic attack,33
+199,Musculoskeletal stiffness,32
+200,Cardiac stress test,32
+201,Hyponatraemia,32
+202,Brain natriuretic peptide increased,32
+203,Memory impairment,32
+204,Sinusitis,32
+205,Metabolic encephalopathy,32
+206,Deep vein thrombosis,32
+207,Neuropathy peripheral,31
+208,Lung disorder,31
+209,Echocardiogram normal,31
+210,Encephalopathy,31
+211,Alanine aminotransferase normal,31
+212,Lymphocyte percentage decreased,31
+213,Troponin,31
+214,Platelet count normal,31
+215,Mean cell haemoglobin concentration normal,31
+216,Pericarditis,30
+217,Heart rate irregular,30
+218,Anosmia,30
+219,Cardiac monitoring,30
+220,Cardiac failure,30
+221,Full blood count normal,30
+222,Red blood cell count decreased,30
+223,Blood alkaline phosphatase normal,30
+224,Arrhythmia,29
+225,Exercise tolerance decreased,29
+226,Off label use,29
+227,Platelet count decreased,29
+228,Sneezing,28
+229,White blood cell count normal,28
+230,Alopecia,28
+231,Haematocrit decreased,28
+232,Influenza B virus test,28
+233,Mean cell volume normal,28
+234,Joint swelling,28
+235,Neurological symptom,27
+236,Neuralgia,27
+237,Oxygen saturation decreased,27
+238,Blood creatinine normal,27
+239,Atelectasis,27
+240,Basophil count decreased,27
+241,C-reactive protein increased,27
+242,Angina pectoris,27
+243,Carbon dioxide normal,27
+244,Magnetic resonance imaging abnormal,26
+245,Ear pain,26
+246,Bronchitis,26
+247,Ventricular extrasystoles,26
+248,Rash erythematous,26
+249,Computerised tomogram head,26
+250,Ejection fraction normal,26
+251,Asthma,26
+252,Autoimmune disorder,26
+253,Fibrin D dimer increased,26
+254,Troponin I,26
+255,Cognitive disorder,26
+256,Facial paralysis,26
+257,Magnetic resonance imaging head normal,26
+258,Blood bilirubin normal,26
+259,Antibody test,25
+260,Somnolence,25
+261,Cardioversion,25
+262,Feeling cold,25
+263,Muscle twitching,25
+264,Amnesia,25
+265,Bradycardia,25
+266,Ultrasound Doppler,25
+267,Mean platelet volume normal,25
+268,Unresponsive to stimuli,24
+269,Angiogram,24
+270,Abdominal discomfort,24
+271,Hypokalaemia,24
+272,Magnetic resonance imaging normal,24
+273,Menstrual disorder,24
+274,Heavy menstrual bleeding,24
+275,Depression,24
+276,Arthritis,24
+277,White blood cell count,24
+278,Blood culture negative,24
+279,Biopsy,24
+280,Blood sodium normal,24
+281,Pulmonary oedema,24
+282,Dysstasia,23
+283,Electroencephalogram,23
+284,Dysarthria,23
+285,Gastrointestinal disorder,23
+286,C-reactive protein,23
+287,Blood urea increased,23
+288,Chromaturia,23
+289,Eosinophil percentage decreased,23
+290,Influenza A virus test negative,23
+291,Mean cell haemoglobin normal,23
+292,Blood calcium normal,23
+293,Skin discolouration,22
+294,Biopsy skin abnormal,22
+295,Infection,22
+296,Hypersomnia,22
+297,Pericardial effusion,22
+298,Chronic kidney disease,22
+299,Eosinophil count decreased,22
+300,Night sweats,22
+301,Blood urea normal,22
+302,Protein total normal,22
+303,SARS-CoV-2 RNA,22
+304,Disorientation,21
+305,Scan with contrast,21
+306,Ejection fraction decreased,21
+307,Renal impairment,21
+308,Menstruation irregular,21
+309,Red blood cell sedimentation rate,21
+310,Pneumonia bacterial,21
+311,Ultrasound Doppler abnormal,21
+312,Glomerular filtration rate decreased,21
+313,Lung consolidation,21
+314,Red cell distribution width increased,21
+315,Hot flush,21
+316,Blood thyroid stimulating hormone normal,21
+317,Electrocardiogram ambulatory,21
+318,Blood albumin normal,21
+319,Blood chloride normal,21
+320,Haemoglobin,20
+321,Swelling face,20
+322,Differential white blood cell count,20
+323,Blood lactic acid,20
+324,Septic shock,20
+325,Ear infection,20
+326,Pulmonary hypertension,20
+327,Urobilinogen urine,20
+328,Cardiomegaly,20
+329,Pulmonary mass,20
+330,Aspartate aminotransferase normal,20
+331,Glomerular filtration rate normal,20
+332,Fibrin D dimer,20
+333,Lymphocyte count,20
+334,Lumbar puncture,19
+335,Head discomfort,19
+336,Computerised tomogram normal,19
+337,Acute myocardial infarction,19
+338,Sinus congestion,19
+339,Nervous system disorder,19
+340,Body temperature increased,19
+341,Hyperkalaemia,19
+342,Gastrooesophageal reflux disease,19
+343,Presyncope,19
+344,Streptococcus test negative,19
+345,Aspartate aminotransferase increased,19
+346,Basophil percentage decreased,19
+347,Bilirubin urine,19
+348,Surgery,19
+349,Product use issue,19
+350,Contusion,19
+351,Head injury,18
+352,Throat tightness,18
+353,Respiratory symptom,18
+354,Blood urine present,18
+355,Bacterial test positive,18
+356,Asymptomatic COVID-19,18
+357,Cardiac failure acute,18
+358,Cardiac flutter,18
+359,Mechanical ventilation,18
+360,Lymphocyte count decreased,18
+361,Monocyte percentage,18
+362,Neutrophil percentage increased,18
+363,Specific gravity urine normal,18
+364,pH urine normal,18
+365,Computerised tomogram spine,18
+366,Impaired driving ability,18
+367,Urine analysis normal,18
+368,Disturbance in attention,18
+369,Ejection fraction,18
+370,Red cell distribution width normal,18
+371,Injection site erythema,17
+372,Deafness unilateral,17
+373,Product administration interrupted,17
+374,Exposure during pregnancy,17
+375,Physical examination,17
+376,Vaccination error,17
+377,Ear discomfort,17
+378,Postural orthostatic tachycardia syndrome,17
+379,Flushing,17
+380,Blood culture,17
+381,Constipation,17
+382,Culture urine,17
+383,Hemiparesis,17
+384,Diuretic therapy,17
+385,Antinuclear antibody,17
+386,Rheumatoid arthritis,17
+387,Glucose urine absent,17
+388,Nitrite urine absent,17
+389,White blood cells urine positive,17
+390,Blood potassium increased,17
+391,Pallor,17
+392,Rash macular,17
+393,Scan with contrast abnormal,17
+394,Respiratory disorder,17
+395,Hypervolaemia,17
+396,Monocyte count,17
+397,Feeding disorder,16
+398,Type 1 diabetes mellitus,16
+399,Epistaxis,16
+400,Photophobia,16
+401,Type 2 diabetes mellitus,16
+402,Dysphonia,16
+403,Upper-airway cough syndrome,16
+404,Magnetic resonance imaging heart,16
+405,Supraventricular tachycardia,16
+406,Product preparation error,16
+407,Computerised tomogram abnormal,16
+408,Facial pain,16
+409,Monocyte percentage increased,16
+410,Haemoglobin normal,16
+411,Blood glucose,15
+412,Limb discomfort,15
+413,Electrocardiogram ambulatory abnormal,15
+414,Transfusion,15
+415,X-ray normal,15
+416,C-reactive protein normal,15
+417,Skin lesion,15
+418,Dysgeusia,15
+419,Blood thyroid stimulating hormone,15
+420,Platelet count,15
+421,Procalcitonin,15
+422,Blood calcium decreased,15
+423,Neutrophil count increased,15
+424,Urine leukocyte esterase positive,15
+425,Superinfection,15
+426,SARS-CoV-2 antibody test,15
+427,Tachypnoea,15
+428,Blood potassium decreased,15
+429,Respiratory syncytial virus test negative,15
+430,Eczema,15
+431,Transcription medication error,15
+432,Creatinine renal clearance decreased,15
+433,Catheterisation cardiac,14
+434,Acoustic stimulation tests,14
+435,Antinuclear antibody positive,14
+436,Immunology test,14
+437,Red blood cell sedimentation rate normal,14
+438,Malnutrition,14
+439,Atrial flutter,14
+440,Eye pain,14
+441,Alanine aminotransferase,14
+442,Aspartate aminotransferase,14
+443,Agitation,14
+444,Abdominal distension,14
+445,Myocardial ischaemia,14
+446,Diastolic dysfunction,14
+447,Weight increased,14
+448,Blood magnesium normal,14
+449,Central venous catheterisation,14
+450,Urinary sediment present,14
+451,Guillain-Barre syndrome,14
+452,Polymyalgia rheumatica,14
+453,Walking aid user,14
+454,Upper respiratory tract infection,14
+455,Metabolic function test normal,14
+456,Imaging procedure,14
+457,Bell's palsy,14
+458,Blood cholesterol,14
+459,Respiratory distress,14
+460,Product administration error,14
+461,Pulmonary congestion,14
+462,PO2 decreased,14
+463,Urine leukocyte esterase,14
+464,Pneumonitis,14
+465,Blood lactic acid increased,14
+466,Monocyte count increased,14
+467,Blood gases abnormal,14
+468,Biopsy skin,14
+469,Haemoglobin urine present,14
+470,Pulmonary thrombosis,13
+471,Psoriasis,13
+472,Diplopia,13
+473,Blister,13
+474,Blood creatine phosphokinase increased,13
+475,Culture urine positive,13
+476,Sinus disorder,13
+477,Resuscitation,13
+478,Electromyogram,13
+479,Musculoskeletal disorder,13
+480,Post-acute COVID-19 syndrome,13
+481,Bedridden,13
+482,Bone pain,13
+483,Lipids,13
+484,Injection site warmth,13
+485,Urine ketone body absent,13
+486,Parosmia,13
+487,Skin warm,13
+488,Sensory disturbance,13
+489,Irritability,13
+490,Thrombocytopenia,13
+491,Blindness,13
+492,Cellulitis,13
+493,Lactic acidosis,13
+494,Oedema,13
+495,Glycosylated haemoglobin,13
+496,Basophil percentage,13
+497,Blood pressure decreased,13
+498,Ultrasound Doppler normal,13
+499,Therapeutic response unexpected,13
+500,Haematocrit normal,13
+501,Neutrophil count,13
+502,Brain natriuretic peptide normal,13
+503,Skin odour abnormal,13
+504,Injection site swelling,12
+505,Abortion spontaneous,12
+506,Pulmonary function test,12
+507,Thyroid function test,12
+508,Haemorrhage,12
+509,Blood culture positive,12
+510,Blood gases,12
+511,Ultrasound scan abnormal,12
+512,Neurological examination,12
+513,Renal function test normal,12
+514,White blood cell count decreased,12
+515,Blood albumin decreased,12
+516,Granulocyte percentage,12
+517,Hypernatraemia,12
+518,Red blood cells urine positive,12
+519,Chemotherapy,12
+520,Computerised tomogram abdomen normal,12
+521,Gastrointestinal haemorrhage,12
+522,Hemiplegia,12
+523,Haematuria,12
+524,Skin disorder,12
+525,Pneumothorax,12
+526,Paralysis,12
+527,Limb injury,12
+528,PCO2 increased,12
+529,Granulocyte count,12
+530,Pollakiuria,12
+531,Blood cholesterol increased,12
+532,Sinus tachycardia,12
+533,Rheumatoid factor,12
+534,Computerised tomogram neck,12
+535,Inflammatory marker increased,12
+536,Mean cell volume increased,12
+537,Neutrophil percentage,12
+538,Joint range of motion decreased,11
+539,Joint stiffness,11
+540,Respiratory viral panel,11
+541,Magnetic resonance imaging spinal abnormal,11
+542,Antinuclear antibody negative,11
+543,Breast cancer female,11
+544,Aphonia,11
+545,Cholelithiasis,11
+546,Musculoskeletal discomfort,11
+547,Diabetic ketoacidosis,11
+548,Osteoarthritis,11
+549,Mechanical urticaria,11
+550,Shock,11
+551,Pneumonia aspiration,11
+552,Paranasal sinus discomfort,11
+553,Tenderness,11
+554,Lymph node pain,11
+555,Blood iron,11
+556,Amenorrhoea,11
+557,Blood creatinine,11
+558,Blood magnesium,11
+559,International normalised ratio increased,11
+560,Cardiac ablation,11
+561,Gastrointestinal tube insertion,11
+562,Eye irritation,11
+563,Bladder catheterisation,11
+564,Dementia,11
+565,Monocyte count normal,11
+566,Protein total decreased,11
+567,Staphylococcus test negative,11
+568,Staphylococcus test positive,11
+569,Urinary retention,11
+570,Blood bicarbonate increased,11
+571,Dizziness postural,11
+572,Fluid retention,11
+573,Mental impairment,11
+574,Disability,11
+575,Periarthritis,11
+576,Disease recurrence,11
+577,Magnetic resonance imaging spinal,11
+578,Mean cell haemoglobin increased,11
+579,Protein urine present,11
+580,Rash papular,11
+581,Blood chloride decreased,11
+582,Blood lactic acid normal,11
+583,Musculoskeletal pain,11
+584,Body height,11
+585,Red blood cell sedimentation rate increased,11
+586,Computerised tomogram abdomen,11
+587,Red blood cell count normal,11
+588,Computerised tomogram thorax,10
+589,Temperature intolerance,10
+590,Cold sweat,10
+591,Fear,10
+592,Dry eye,10
+593,Skin burning sensation,10
+594,Renal failure,10
+595,Accidental underdose,10
+596,Urinary incontinence,10
+597,Blood immunoglobulin G,10
+598,Haematocrit,10
+599,Physical deconditioning,10
+600,Carbon dioxide decreased,10
+601,Decubitus ulcer,10
+602,Hyperlipidaemia,10
+603,Taste disorder,10
+604,Dysmenorrhoea,10
+605,Dry mouth,10
+606,Electrolyte substitution therapy,10
+607,Computerised tomogram thorax normal,10
+608,Culture urine negative,10
+609,Sputum culture,10
+610,Abdominal pain lower,10
+611,Secretion discharge,10
+612,Depressed level of consciousness,10
+613,Obstructive sleep apnoea syndrome,10
+614,Coronary arterial stent insertion,10
+615,Full blood count abnormal,10
+616,Injury,10
+617,Blood bicarbonate normal,10
+618,Glycosylated haemoglobin normal,10
+619,Sinus rhythm,10
+620,Magnetic resonance imaging neck,10
+621,Thrombectomy,10
+622,Cardiomyopathy,10
+623,Autonomic nervous system imbalance,10
+624,Inflammatory marker test,10
+625,Haemodialysis,10
+626,Cerebral haemorrhage,10
+627,Eosinophil percentage,10
+628,Blood pH normal,10
+629,Bacterial test,10
+630,Alanine aminotransferase increased,10
+631,Cardiac monitoring abnormal,9
+632,Ventricular tachycardia,9
+633,Blood potassium,9
+634,Cardiac pacemaker insertion,9
+635,Angiogram cerebral abnormal,9
+636,Angiogram cerebral normal,9
+637,Ocular hyperaemia,9
+638,Haematochezia,9
+639,Aspiration,9
+640,Gout,9
+641,Maternal exposure during pregnancy,9
+642,Polymerase chain reaction,9
+643,Oxygen saturation,9
+644,Dysuria,9
+645,Pharyngeal swelling,9
+646,Colonoscopy abnormal,9
+647,Pulmonary fibrosis,9
+648,Chronic respiratory failure,9
+649,Hypoacusis,9
+650,Coronary artery disease,9
+651,Sputum discoloured,9
+652,Benign prostatic hyperplasia,9
+653,Radiotherapy,9
+654,Scab,9
+655,Acoustic stimulation tests abnormal,9
+656,Vaccination site erythema,9
+657,Influenza virus test,9
+658,Blood pH decreased,9
+659,Chest tube insertion,9
+660,Lipase normal,9
+661,Red blood cell transfusion,9
+662,Urine antigen test,9
+663,Dyskinesia,9
+664,Vitamin B12 normal,9
+665,Vitamin D,9
+666,Angioedema,9
+667,Blood bilirubin increased,9
+668,Axillary pain,9
+669,Fibrin D dimer normal,9
+670,Troponin I increased,9
+671,Angiogram normal,9
+672,Rales,9
+673,Blood alkaline phosphatase,9
+674,Complement factor C3,9
+675,Complement factor C4,9
+676,Suicidal ideation,9
+677,Nerve conduction studies,9
+678,Nodule,9
+679,Abnormal behaviour,9
+680,Urine abnormality,9
+681,Procalcitonin normal,9
+682,Blood bilirubin,9
+683,Breath sounds abnormal,9
+684,Acute respiratory distress syndrome,9
+685,International normalised ratio normal,9
+686,Eosinophil count normal,9
+687,Base excess,9
+688,Haematology test abnormal,9
+689,Injection site rash,8
+690,Thirst,8
+691,Paraesthesia oral,8
+692,Scan,8
+693,Feeling of body temperature change,8
+694,Injection site pruritus,8
+695,X-ray limb normal,8
+696,Hip fracture,8
+697,Influenza A virus test positive,8
+698,Eye swelling,8
+699,Cerebral infarction,8
+700,Hypomagnesaemia,8
+701,Left ventricular failure,8
+702,Dry skin,8
+703,Implantable cardiac monitor insertion,8
+704,Breast pain,8
+705,Hypothyroidism,8
+706,Blood calcium,8
+707,Cystitis,8
+708,Delirium,8
+709,Iron deficiency anaemia,8
+710,Injection site reaction,8
+711,Catheterisation cardiac abnormal,8
+712,Emphysema,8
+713,Hyporesponsive to stimuli,8
+714,Blood alkaline phosphatase increased,8
+715,Protein urine absent,8
+716,Wound,8
+717,Positron emission tomogram abnormal,8
+718,Heart rate decreased,8
+719,Therapy change,8
+720,Tricuspid valve incompetence,8
+721,Angiogram pulmonary normal,8
+722,Postmenopausal haemorrhage,8
+723,Imaging procedure abnormal,8
+724,Deafness,8
+725,Blood iron decreased,8
+726,Coma scale,8
+727,Metabolic acidosis,8
+728,Electroencephalogram abnormal,8
+729,Electrocardiogram ambulatory normal,8
+730,Treatment noncompliance,8
+731,Pneumonia viral,8
+732,Mammogram abnormal,8
+733,Differential white blood cell count normal,8
+734,Lymphocyte count normal,8
+735,White blood cells urine negative,8
+736,Immune system disorder,8
+737,Stress,8
+738,Troponin normal,8
+739,Sciatica,8
+740,Mammogram,8
+741,Pulseless electrical activity,8
+742,Urine ketone body present,8
+743,Peripheral coldness,8
+744,Vitamin B12,8
+745,Protein urine,8
+746,Prothrombin time prolonged,8
+747,Coagulation test,8
+748,Intervertebral disc degeneration,7
+749,Injected limb mobility decreased,7
+750,Blood pressure fluctuation,7
+751,Chronic spontaneous urticaria,7
+752,Food allergy,7
+753,Rheumatoid factor negative,7
+754,Catheter placement,7
+755,Cerebral atrophy,7
+756,Cerebral small vessel ischaemic disease,7
+757,Sensory loss,7
+758,Eye disorder,7
+759,Electric shock sensation,7
+760,Hallucination,7
+761,Psychotic disorder,7
+762,Sleep study,7
+763,Left ventricular hypertrophy,7
+764,Respiratory tract infection,7
+765,Maternal exposure before pregnancy,7
+766,Nasopharyngeal swab,7
+767,Dyspepsia,7
+768,Blood sodium,7
+769,Serum ferritin,7
+770,Diverticulitis,7
+771,Anaemia of chronic disease,7
+772,Blood chloride increased,7
+773,Essential hypertension,7
+774,Haematology test,7
+775,Platelet count increased,7
+776,Urinary casts,7
+777,Pain in jaw,7
+778,Skin exfoliation,7
+779,X-ray abnormal,7
+780,Oesophagogastroduodenoscopy abnormal,7
+781,Appendicitis,7
+782,Renal disorder,7
+783,Middle insomnia,7
+784,Limb mass,7
+785,Blepharospasm,7
+786,Rectal haemorrhage,7
+787,Flank pain,7
+788,Thinking abnormal,7
+789,Acne,7
+790,Cardio-respiratory arrest,7
+791,Aspiration pleural cavity,7
+792,Seizure like phenomena,7
+793,Electrocardiogram QT prolonged,7
+794,Fraction of inspired oxygen,7
+795,Induration,7
+796,Hyperthyroidism,7
+797,Thyroxine free normal,7
+798,Cerebral thrombosis,7
+799,Prothrombin time,7
+800,Panic attack,7
+801,Bundle branch block right,7
+802,Cardiac murmur,7
+803,Influenza virus test positive,7
+804,Blindness unilateral,7
+805,Hypercapnia,7
+806,Electroencephalogram normal,7
+807,Cardiac stress test normal,7
+808,Cardiac telemetry,7
+809,Culture,7
+810,Grip strength decreased,7
+811,Dermatitis,7
+812,Endoscopy,7
+813,Coagulation test abnormal,7
+814,Lumbar puncture abnormal,7
+815,Impaired quality of life,7
+816,Painful respiration,7
+817,Hepatic enzyme increased,7
+818,Blood lactic acid decreased,7
+819,Intermenstrual bleeding,7
+820,Muscle atrophy,7
+821,Monoplegia,7
+822,Haematemesis,7
+823,Mean platelet volume decreased,7
+824,Legionella test,7
+825,PCO2 normal,7
+826,Protein total,7
+827,Hypoaesthesia oral,6
+828,Formication,6
+829,Lichen planus,6
+830,Tilt table test,6
+831,Allergy test,6
+832,Angiogram cerebral,6
+833,Generalised tonic-clonic seizure,6
+834,Streptococcus test positive,6
+835,Ultrasound abdomen abnormal,6
+836,Electrolyte imbalance,6
+837,Urine output decreased,6
+838,Arthropathy,6
+839,Cardiac function test normal,6
+840,Pancytopenia,6
+841,Raynaud's phenomenon,6
+842,Lacrimation increased,6
+843,Pregnancy,6
+844,Muscle disorder,6
+845,Spinal X-ray,6
+846,Borrelia test,6
+847,Paranoia,6
+848,Hypoglycaemia,6
+849,N-terminal prohormone brain natriuretic peptide increased,6
+850,Basedow's disease,6
+851,Vaccination site swelling,6
+852,Hepatic failure,6
+853,Emotional distress,6
+854,Fibromyalgia,6
+855,Quality of life decreased,6
+856,Tracheostomy,6
+857,Toxic encephalopathy,6
+858,Cardiac function test,6
+859,Colectomy,6
+860,Small intestinal obstruction,6
+861,Mean cell haemoglobin concentration decreased,6
+862,Clostridium difficile infection,6
+863,Sensitive skin,6
+864,Bursitis,6
+865,Blood triglycerides,6
+866,Gastrostomy,6
+867,Acoustic stimulation tests normal,6
+868,Crying,6
+869,Wheelchair user,6
+870,Vasculitis,6
+871,Breast mass,6
+872,Parkinson's disease,6
+873,Immunodeficiency,6
+874,Coronary artery occlusion,6
+875,Blood pressure abnormal,6
+876,Infusion,6
+877,Abnormal loss of weight,6
+878,Arteriosclerosis,6
+879,Magnetic resonance imaging spinal normal,6
+880,Exposure to communicable disease,6
+881,Wound treatment,6
+882,Liver function test normal,6
+883,Mitral valve incompetence,6
+884,Nerve injury,6
+885,Symptom recurrence,6
+886,Urticaria chronic,6
+887,Dermatitis contact,6
+888,Lymphocyte percentage,6
+889,Retching,6
+890,Breast swelling,6
+891,Diabetes mellitus,6
+892,Vitreous floaters,6
+893,Respiration abnormal,6
+894,X-ray of pelvis and hip normal,6
+895,Culture negative,6
+896,Blood creatine phosphokinase normal,6
+897,Medical diet,6
+898,Blood thyroid stimulating hormone decreased,6
+899,Fungal infection,6
+900,Muscle tightness,6
+901,Colitis,6
+902,Haemoptysis,6
+903,Bacterial infection,6
+904,Failure to thrive,6
+905,Sinus bradycardia,6
+906,Adverse drug reaction,6
+907,Cytomegalovirus test,6
+908,Anti-cyclic citrullinated peptide antibody,6
+909,Abnormal menstrual clots,6
+910,Squamous cell carcinoma,6
+911,Interstitial lung disease,6
+912,Troponin I normal,6
+913,Eyelid ptosis,6
+914,Plasma cell myeloma,6
+915,Glucose urine present,6
+916,Visual field defect,6
+917,Positron emission tomogram,6
+918,Mast cell activation syndrome,6
+919,Scan with contrast normal,6
+920,Body mass index,6
+921,Brain oedema,6
+922,Carotid artery occlusion,6
+923,Blood triglycerides increased,6
+924,Obesity,6
+925,Glomerular filtration rate,6
+926,Cerebral disorder,6
+927,Cardiac dysfunction,6
+928,Cytology,6
+929,Metabolic function test abnormal,6
+930,Coordination abnormal,6
+931,Hypertransaminasaemia,6
+932,Impaired self-care,6
+933,Coma,5
+934,Internal haemorrhage,5
+935,Flatulence,5
+936,Adverse event,5
+937,Nephrolithiasis,5
+938,Skin reaction,5
+939,Cardiac operation,5
+940,Central nervous system lesion,5
+941,Epilepsy,5
+942,Bacteraemia,5
+943,Hypothermia,5
+944,Hyperaesthesia,5
+945,Cholecystectomy,5
+946,Blood chloride,5
+947,Escherichia test positive,5
+948,Hyperventilation,5
+949,Lacunar infarction,5
+950,Thyroid mass,5
+951,Laryngitis,5
+952,Anal incontinence,5
+953,Immunoglobulin therapy,5
+954,Delusion,5
+955,Dialysis,5
+956,Extrasystoles,5
+957,Faeces discoloured,5
+958,Streptococcus test,5
+959,Blood urea,5
+960,Vital signs measurement,5
+961,Subdural haematoma,5
+962,Swollen tongue,5
+963,Pulse absent,5
+964,Conjunctivitis,5
+965,Viral infection,5
+966,Blood sodium increased,5
+967,Musculoskeletal chest pain,5
+968,Skin laceration,5
+969,Hyperacusis,5
+970,Prohormone brain natriuretic peptide increased,5
+971,Rhabdomyolysis,5
+972,Stool analysis normal,5
+973,Retinal artery occlusion,5
+974,Foreign travel,5
+975,Cardiac discomfort,5
+976,Restless legs syndrome,5
+977,Lichenoid keratosis,5
+978,Cerebral artery occlusion,5
+979,Respiratory syncytial virus test,5
+980,Blood creatine phosphokinase,5
+981,Red blood cell count,5
+982,Blood loss anaemia,5
+983,Renal cyst,5
+984,Blood immunoglobulin A,5
+985,Decreased activity,5
+986,Cardiac stress test abnormal,5
+987,Eating disorder,5
+988,Cataract,5
+989,Pickwickian syndrome,5
+990,Supraventricular extrasystoles,5
+991,Atrioventricular block first degree,5
+992,Lumbar puncture normal,5
+993,Thyroid function test normal,5
+994,Atypical pneumonia,5
+995,Cerebral ischaemia,5
+996,Scar,5
+997,Bronchial wall thickening,5
+998,Antineutrophil cytoplasmic antibody,5
+999,Non-high-density lipoprotein cholesterol,5
+1000,Intracranial aneurysm,5
+1001,Loss of control of legs,5
+1002,Colonoscopy,5
+1003,Dysgraphia,5
+1004,Blood lactate dehydrogenase,5
+1005,Sarcoidosis,5
+1006,Pulmonary imaging procedure abnormal,5
+1007,Catheterisation cardiac normal,5
+1008,Hepatic cirrhosis,5
+1009,Eye inflammation,5
+1010,Ultrasound abdomen,5
+1011,Blood bicarbonate decreased,5
+1012,Fine motor skill dysfunction,5
+1013,Post-traumatic stress disorder,5
+1014,International normalised ratio,5
+1015,Muscle contractions involuntary,5
+1016,Liver function test,5
+1017,Myopericarditis,5
+1018,Blood glucose decreased,5
+1019,Scan myocardial perfusion,5
+1020,Antibody test negative,5
+1021,Medication error,5
+1022,Basophil count normal,5
+1023,End stage renal disease,5
+1024,Aggression,5
+1025,PCO2 decreased,5
+1026,Procalcitonin increased,5
+1027,Angiogram pulmonary,5
+1028,Activated partial thromboplastin time shortened,5
+1029,Mean cell volume,5
+1030,Treponema test,5
+1031,Anaphylactic reaction,5
+1032,Haemorrhagic stroke,5
+1033,PO2 increased,5
+1034,Hypovolaemia,5
+1035,Epstein-Barr virus test,5
+1036,Mental disorder,5
+1037,Brain natriuretic peptide,5
+1038,Insulin therapy,5
+1039,Red blood cells urine negative,5
+1040,Systemic lupus erythematosus,4
+1041,Oral discomfort,4
+1042,Road traffic accident,4
+1043,Aortic valve replacement,4
+1044,White matter lesion,4
+1045,Spinal X-ray abnormal,4
+1046,X-ray of pelvis and hip abnormal,4
+1047,Pathology test,4
+1048,Menopause,4
+1049,Uterine dilation and curettage,4
+1050,Vaginal haemorrhage,4
+1051,Spinal compression fracture,4
+1052,Systemic inflammatory response syndrome,4
+1053,Oesophagogastroduodenoscopy,4
+1054,Weight bearing difficulty,4
+1055,Blood cortisol,4
+1056,Carbon dioxide,4
+1057,Human chorionic gonadotropin,4
+1058,Left atrial enlargement,4
+1059,Blood disorder,4
+1060,Caesarean section,4
+1061,Mineral supplementation,4
+1062,Incentive spirometry,4
+1063,Myocardial necrosis marker,4
+1064,Organ failure,4
+1065,Tendonitis,4
+1066,Fluid intake reduced,4
+1067,Hiatus hernia,4
+1068,Sluggishness,4
+1069,Carditis,4
+1070,Encephalitis,4
+1071,Viral test,4
+1072,Ultrasound scan normal,4
+1073,Colitis ulcerative,4
+1074,Angiogram abnormal,4
+1075,Cardiac tamponade,4
+1076,Influenza A virus test,4
+1077,Acute left ventricular failure,4
+1078,Left ventricular dysfunction,4
+1079,Flow cytometry,4
+1080,Respiratory syncytial virus infection,4
+1081,Respiratory syncytial virus test positive,4
+1082,Chronic left ventricular failure,4
+1083,Fluid intake restriction,4
+1084,Intentional medical device removal by patient,4
+1085,Lymphoma,4
+1086,Near death experience,4
+1087,Critical illness,4
+1088,Eye pruritus,4
+1089,Eosinophil count increased,4
+1090,Carpal tunnel syndrome,4
+1091,Activated partial thromboplastin time,4
+1092,Arteriogram carotid,4
+1093,Alopecia areata,4
+1094,Orthostatic hypotension,4
+1095,Prostatic specific antigen increased,4
+1096,Hypertensive crisis,4
+1097,Acupuncture,4
+1098,Photopsia,4
+1099,Nervousness,4
+1100,Coronary artery bypass,4
+1101,Polyuria,4
+1102,Hepatic steatosis,4
+1103,Liver function test increased,4
+1104,Retinal detachment,4
+1105,Diplegia,4
+1106,Vertigo positional,4
+1107,Gene mutation identification test,4
+1108,Coagulopathy,4
+1109,Chronic fatigue syndrome,4
+1110,Back disorder,4
+1111,Beta-2 glycoprotein antibody,4
+1112,Cardiolipin antibody,4
+1113,Low density lipoprotein,4
+1114,Dystonia,4
+1115,Oral herpes,4
+1116,Vestibular disorder,4
+1117,Aura,4
+1118,Renal function test,4
+1119,Haemofiltration,4
+1120,Ammonia normal,4
+1121,Dry throat,4
+1122,Biopsy lymph gland abnormal,4
+1123,Sudden hearing loss,4
+1124,Jaw disorder,4
+1125,Neoplasm malignant,4
+1126,Procedural pain,4
+1127,X-ray limb,4
+1128,Incontinence,4
+1129,Autopsy,4
+1130,Anion gap increased,4
+1131,Papilloedema,4
+1132,Reading disorder,4
+1133,Ruptured cerebral aneurysm,4
+1134,Hip arthroplasty,4
+1135,Brain injury,4
+1136,Respiratory rate,4
+1137,Oesophageal disorder,4
+1138,Splenomegaly,4
+1139,SARS-CoV-2 antibody test positive,4
+1140,Blood pH increased,4
+1141,Blood glucose abnormal,4
+1142,Blood folate normal,4
+1143,Cerebral venous sinus thrombosis,4
+1144,Small fibre neuropathy,4
+1145,Pancreatic disorder,4
+1146,Peripheral artery thrombosis,4
+1147,Klebsiella test positive,4
+1148,Papule,4
+1149,VIth nerve paralysis,4
+1150,Tryptase,4
+1151,Urinary sediment,4
+1152,Use of accessory respiratory muscles,4
+1153,Mean cell haemoglobin decreased,4
+1154,Eosinophil count,4
+1155,Red cell distribution width,4
+1156,Croup infectious,4
+1157,Intraocular pressure test,4
+1158,Thalamic stroke,4
+1159,Menstruation delayed,4
+1160,Lower urinary tract symptoms,4
+1161,Nitrite urine present,4
+1162,Auscultation,4
+1163,Protein total increased,4
+1164,Respiratory acidosis,4
+1165,Mouth haemorrhage,4
+1166,Blood albumin,4
+1167,Vena cava filter insertion,4
+1168,Amyotrophic lateral sclerosis,4
+1169,Blood electrolytes,4
+1170,Hilar lymphadenopathy,4
+1171,X-ray limb abnormal,4
+1172,Mastitis,4
+1173,Ultrasound breast,4
+1174,Cachexia,4
+1175,Hepatic mass,4
+1176,Neutrophil count decreased,4
+1177,Bacterial test negative,4
+1178,Thyroid disorder,4
+1179,Product dose omission issue,4
+1180,Aortic stenosis,4
+1181,SARS-CoV-2 antibody test negative,3
+1182,Idiopathic intracranial hypertension,3
+1183,Intracranial pressure increased,3
+1184,Dissociation,3
+1185,Giant cell arteritis,3
+1186,Product availability issue,3
+1187,Ovarian cyst,3
+1188,Maternal exposure during breast feeding,3
+1189,CSF protein,3
+1190,Skin ulcer,3
+1191,Humidity intolerance,3
+1192,Overdose,3
+1193,Mitral valve replacement,3
+1194,Extubation,3
+1195,Hypokinesia,3
+1196,Ultrasound kidney abnormal,3
+1197,Ankle fracture,3
+1198,Endoscopy normal,3
+1199,Ultrasound thyroid abnormal,3
+1200,Frustration tolerance decreased,3
+1201,Skin swelling,3
+1202,Sensation of foreign body,3
+1203,Femur fracture,3
+1204,Paranasal sinus hypersecretion,3
+1205,Staphylococcal bacteraemia,3
+1206,Magnetic resonance imaging abdominal abnormal,3
+1207,Nerve compression,3
+1208,Nerve conduction studies normal,3
+1209,Eye discharge,3
+1210,Renal tubular necrosis,3
+1211,Viral sepsis,3
+1212,Energy increased,3
+1213,Liver disorder,3
+1214,Coronary artery thrombosis,3
+1215,Gastric haemorrhage,3
+1216,Gastritis,3
+1217,Iron deficiency,3
+1218,Spinal pain,3
+1219,Blood phosphorus,3
+1220,Urine osmolarity,3
+1221,Craniotomy,3
+1222,Immunosuppression,3
+1223,Ileus,3
+1224,Leukopenia,3
+1225,Percutaneous coronary intervention,3
+1226,Pulmonary function test abnormal,3
+1227,X-ray of pelvis and hip,3
+1228,Autoimmune thyroiditis,3
+1229,Colonoscopy normal,3
+1230,Superficial vein thrombosis,3
+1231,Immature granulocyte count,3
+1232,Mean platelet volume increased,3
+1233,Normocytic anaemia,3
+1234,Staphylococcal infection,3
+1235,Acidosis,3
+1236,Cyst,3
+1237,Suture insertion,3
+1238,Autoimmune hepatitis,3
+1239,Biopsy liver,3
+1240,Blood electrolytes normal,3
+1241,Trismus,3
+1242,Aortic valve sclerosis,3
+1243,Blood calcium increased,3
+1244,Facet joint syndrome,3
+1245,Clostridium test negative,3
+1246,Cystoscopy,3
+1247,Ureteral stent insertion,3
+1248,Movement disorder,3
+1249,Vertebral foraminal stenosis,3
+1250,Influenza B virus test positive,3
+1251,Fluorescence angiogram,3
+1252,Liver injury,3
+1253,Foot deformity,3
+1254,Discoloured vomit,3
+1255,Oxygen saturation abnormal,3
+1256,Vaccination site rash,3
+1257,Ill-defined disorder,3
+1258,Coronary artery stenosis,3
+1259,Electrocardiogram ST segment elevation,3
+1260,Arteriogram carotid abnormal,3
+1261,Oesophagitis,3
+1262,Tympanic membrane perforation,3
+1263,Mass,3
+1264,Bone disorder,3
+1265,Pancreatitis,3
+1266,Abdominal hernia,3
+1267,Multiple organ dysfunction syndrome,3
+1268,Wound closure,3
+1269,Biopsy breast abnormal,3
+1270,Breast conserving surgery,3
+1271,Mastectomy,3
+1272,Borrelia test negative,3
+1273,Electromyogram abnormal,3
+1274,HIV test negative,3
+1275,Hepatitis viral test negative,3
+1276,Ammonia increased,3
+1277,Inappropriate antidiuretic hormone secretion,3
+1278,Lipase increased,3
+1279,Colon cancer stage IV,3
+1280,Hydronephrosis,3
+1281,Tobacco user,3
+1282,Bronchiolitis,3
+1283,Total lung capacity decreased,3
+1284,Arteriogram carotid normal,3
+1285,Nerve block,3
+1286,Emotional disorder,3
+1287,Food intolerance,3
+1288,Vitamin B1,3
+1289,Glossodynia,3
+1290,Red blood cells urine,3
+1291,Aortic valve incompetence,3
+1292,Product administered at inappropriate site,3
+1293,Lip swelling,3
+1294,Epstein-Barr virus test positive,3
+1295,Implantable defibrillator insertion,3
+1296,Crepitations,3
+1297,Groin pain,3
+1298,Cardiac resynchronisation therapy,3
+1299,Spinal disorder,3
+1300,Hypotonia,3
+1301,Impaired healing,3
+1302,Haemorrhage intracranial,3
+1303,Smear cervix normal,3
+1304,Portal vein thrombosis,3
+1305,Hysterectomy,3
+1306,Pulmonary function test normal,3
+1307,Uterine haemorrhage,3
+1308,Atrioventricular block,3
+1309,Granuloma annulare,3
+1310,Antibody test abnormal,3
+1311,Sinus arrest,3
+1312,Swallow study,3
+1313,Hernia,3
+1314,Rhinalgia,3
+1315,Pathogen resistance,3
+1316,Hypertensive urgency,3
+1317,Metastatic neoplasm,3
+1318,Histology,3
+1319,Immunohistochemistry,3
+1320,High density lipoprotein,3
+1321,Total cholesterol/HDL ratio,3
+1322,Aortic aneurysm,3
+1323,Aortic arteriosclerosis,3
+1324,Magnetic resonance imaging thoracic,3
+1325,Subarachnoid haemorrhage,3
+1326,Urinary tract infection enterococcal,3
+1327,Choking sensation,3
+1328,Stool analysis abnormal,3
+1329,Pneumomediastinum,3
+1330,Carbon dioxide increased,3
+1331,Pericardial excision,3
+1332,Blood grouping,3
+1333,Immune thrombocytopenia,3
+1334,Computerised tomogram pelvis,3
+1335,Mitral valve prolapse,3
+1336,Drug screen negative,3
+1337,Body temperature decreased,3
+1338,Myocardial necrosis marker increased,3
+1339,CSF protein increased,3
+1340,Restlessness,3
+1341,Biopsy lymph gland,3
+1342,Testicular pain,3
+1343,Body height decreased,3
+1344,Metamorphopsia,3
+1345,Klebsiella infection,3
+1346,Micturition urgency,3
+1347,Partial seizures,3
+1348,Morphoea,3
+1349,Atrioventricular block complete,3
+1350,Otorrhoea,3
+1351,Cryotherapy,3
+1352,Skin abrasion,3
+1353,Ataxia,3
+1354,Adrenal insufficiency,3
+1355,Multiple sclerosis,3
+1356,Vibratory sense increased,3
+1357,Ultrasound liver abnormal,3
+1358,Embolic stroke,3
+1359,Deafness neurosensory,3
+1360,Myoclonus,3
+1361,Toothache,3
+1362,Psoriatic arthropathy,3
+1363,Rheumatoid factor increased,3
+1364,Hypopnoea,3
+1365,Lipoma,3
+1366,Ultrasound pelvis abnormal,3
+1367,Blood cholesterol normal,3
+1368,Pelvic venous thrombosis,3
+1369,Periorbital swelling,3
+1370,Pancreatic failure,3
+1371,Heart rate abnormal,3
+1372,Life support,3
+1373,Lung neoplasm malignant,3
+1374,Oral candidiasis,3
+1375,Orthopnoea,3
+1376,Ventricular hypokinesia,3
+1377,Lichen sclerosus,3
+1378,Corrective lens user,3
+1379,Hearing aid user,3
+1380,Prostate cancer,3
+1381,Communication disorder,3
+1382,High density lipoprotein decreased,3
+1383,Low density lipoprotein normal,3
+1384,Diarrhoea haemorrhagic,3
+1385,Phonophobia,3
+1386,Vaccination site warmth,3
+1387,Muscle strain,3
+1388,Bronchial secretion retention,3
+1389,Cardiovascular symptom,3
+1390,Epstein-Barr virus test negative,3
+1391,Mouth ulceration,3
+1392,Epstein-Barr virus antibody,3
+1393,Deafness bilateral,3
+1394,Rhonchi,3
+1395,Dermatitis atopic,3
+1396,Hepatitis C virus test,3
+1397,Stenosis,3
+1398,Hepatitis B virus test,3
+1399,Haemorrhoids,3
+1400,Skin cancer,3
+1401,Cluster headache,3
+1402,Polymenorrhoea,3
+1403,Neutrophil count normal,3
+1404,Neoplasm,3
+1405,Injection site nodule,3
+1406,Pneumonia mycoplasmal,3
+1407,Febrile convulsion,3
+1408,Skin infection,3
+1409,Sudden death,3
+1410,Electrocardiogram T wave abnormal,3
+1411,Axillary mass,3
+1412,Cerebral mass effect,3
+1413,Eyelid disorder,3
+1414,General symptom,3
+1415,Eye movement disorder,3
+1416,Rash vesicular,3
+1417,Transient global amnesia,3
+1418,Thyroxine free,3
+1419,Injection site bruising,3
+1420,Myasthenia gravis,3
+1421,Activated partial thromboplastin time normal,3
+1422,Protein C,3
+1423,Prothrombin time normal,3
+1424,Urobilinogen urine decreased,3
+1425,Cholecystitis,3
+1426,Bilirubin conjugated,3
+1427,Basophil count,3
+1428,Blood urea nitrogen/creatinine ratio,3
+1429,Electrophoresis protein,3
+1430,Mean cell haemoglobin,3
+1431,Mean cell haemoglobin concentration,3
+1432,Fungal test,3
+1433,Schizophrenia,3
+1434,Performance status decreased,3
+1435,Haematoma,3
+1436,Ear disorder,3
+1437,Pain of skin,3
+1438,Sleep apnoea syndrome,3
+1439,Injection site induration,3
+1440,Cardiogenic shock,3
+1441,Escherichia infection,3
+1442,Staphylococcus test,3
+1443,Spinal osteoarthritis,3
+1444,Electromyogram normal,3
+1445,Costochondritis,3
+1446,Meniere's disease,3
+1447,Hypertensive emergency,3
+1448,Pyuria,3
+1449,Prohormone brain natriuretic peptide,3
+1450,Antibody test positive,3
+1451,Breakthrough COVID-19,3
+1452,Bronchospasm,3
+1453,Blood pH,3
+1454,Blood magnesium decreased,3
+1455,Pleuritic pain,3
+1456,Pelvic pain,3
+1457,Pain assessment,3
+1458,Sjogren's syndrome,3
+1459,Narcolepsy,3
+1460,Arteriosclerosis coronary artery,3
+1461,Hepatic enzyme,3
+1462,Bladder disorder,3
+1463,Myelitis transverse,3
+1464,Liver function test abnormal,3
+1465,Pemphigoid,3
+1466,Vaccination site pruritus,3
+1467,Hepatitis C antibody,3
+1468,Cardiac failure chronic,3
+1469,Paracentesis,3
+1470,Ejection fraction abnormal,3
+1471,Biopsy breast,3
+1472,Cardiovascular disorder,3
+1473,Screaming,3
+1474,Tongue discomfort,3
+1475,Platelet morphology normal,3
+1476,Red blood cell morphology normal,3
+1477,Right ventricular failure,3
+1478,Ultrasound chest,3
+1479,Anger,3
+1480,Meniscus injury,3
+1481,Gallbladder enlargement,3
+1482,Laparoscopic surgery,3
+1483,Oral blood blister,3
+1484,Bilirubin urine present,3
+1485,PO2 normal,3
+1486,Audiogram normal,2
+1487,Hunger,2
+1488,Nasal disorder,2
+1489,Renal transplant,2
+1490,Blood glucose fluctuation,2
+1491,Scan abnormal,2
+1492,Stent placement,2
+1493,Allergy test positive,2
+1494,Blood immunoglobulin E,2
+1495,Demyelination,2
+1496,Pregnancy test negative,2
+1497,Encephalomalacia,2
+1498,Myelopathy,2
+1499,Osteopenia,2
+1500,Optic neuritis,2
+1501,Abnormal uterine bleeding,2
+1502,Infertility female,2
+1503,Adult failure to thrive,2
+1504,Pulmonary function test decreased,2
+1505,Enterococcus test positive,2
+1506,Fungal test positive,2
+1507,Roseola,2
+1508,Personality change,2
+1509,Treatment failure,2
+1510,Altered state of consciousness,2
+1511,Cardiac imaging procedure abnormal,2
+1512,Fibrosis,2
+1513,Hypovitaminosis,2
+1514,Kidney infection,2
+1515,Chest scan,2
+1516,Vaccination site discolouration,2
+1517,Radiculitis brachial,2
+1518,Blood corticotrophin,2
+1519,Diabetes insipidus,2
+1520,Hypophysitis,2
+1521,Blood follicle stimulating hormone,2
+1522,Blood luteinising hormone,2
+1523,Blood osmolarity,2
+1524,Oestradiol,2
+1525,Thyroxine,2
+1526,Ventilation/perfusion scan abnormal,2
+1527,Dementia Alzheimer's type,2
+1528,Vascular dementia,2
+1529,Foetal heart rate decreased,2
+1530,Foetal hypokinesia,2
+1531,Nothing by mouth order,2
+1532,Pharyngitis,2
+1533,Hepatic enzyme abnormal,2
+1534,Blood osmolarity increased,2
+1535,Blood urea nitrogen/creatinine ratio increased,2
+1536,Crystal urine present,2
+1537,Microscopy,2
+1538,Peripheral venous disease,2
+1539,Red blood cell nucleated morphology,2
+1540,Trial of void,2
+1541,Ventricular fibrillation,2
+1542,Non-Hodgkin's lymphoma,2
+1543,Endometrial ablation,2
+1544,Ovulation pain,2
+1545,Skin hyperpigmentation,2
+1546,Intestinal mass,2
+1547,Vitiligo,2
+1548,Joint noise,2
+1549,Hidradenitis,2
+1550,Hypercalcaemia,2
+1551,Explorative laparotomy,2
+1552,Intestinal obstruction,2
+1553,Barium swallow abnormal,2
+1554,Appendicectomy,2
+1555,Gastroenteritis viral,2
+1556,Antiphospholipid antibodies,2
+1557,Leukaemia,2
+1558,Localised infection,2
+1559,Osteomyelitis,2
+1560,Hepatitis C RNA,2
+1561,Blood testosterone decreased,2
+1562,Low density lipoprotein increased,2
+1563,Lower limb fracture,2
+1564,Encephalitis autoimmune,2
+1565,Depressed mood,2
+1566,Drug interaction,2
+1567,Vaccination site mass,2
+1568,Vaccination site haemorrhage,2
+1569,Proteinuria,2
+1570,Dopamine transporter scintigraphy,2
+1571,Skin mass,2
+1572,Immunoglobulins decreased,2
+1573,Blood creatine,2
+1574,Gastrointestinal tube removal,2
+1575,Hypophosphataemia,2
+1576,Pericardial drainage,2
+1577,Tongue biting,2
+1578,Gastric ischaemia,2
+1579,Intestinal strangulation,2
+1580,Blood iron abnormal,2
+1581,Tongue paralysis,2
+1582,Lipids normal,2
+1583,Brain scan normal,2
+1584,Hepatic encephalopathy,2
+1585,Antipsychotic drug level increased,2
+1586,Gallbladder disorder,2
+1587,Polydipsia,2
+1588,Ultrasound biliary tract abnormal,2
+1589,Lumbar vertebral fracture,2
+1590,Gastrointestinal wall thickening,2
+1591,Blood iron normal,2
+1592,Transcatheter aortic valve implantation,2
+1593,Economic problem,2
+1594,Vitamin B12 decreased,2
+1595,Gestational diabetes,2
+1596,Blood homocysteine normal,2
+1597,Allergy to chemicals,2
+1598,Exercise test,2
+1599,Blood urine absent,2
+1600,Pleural thickening,2
+1601,Blood prolactin increased,2
+1602,Heart valve incompetence,2
+1603,Muscle contracture,2
+1604,Device breakage,2
+1605,Epstein-Barr virus infection,2
+1606,Cataract operation,2
+1607,Joint dislocation,2
+1608,Limb operation,2
+1609,Gastrointestinal pathogen panel,2
+1610,Bundle branch block,2
+1611,Left ventricular dilatation,2
+1612,Acute sinusitis,2
+1613,Eye haemorrhage,2
+1614,Renal mass,2
+1615,Increased bronchial secretion,2
+1616,Bed rest,2
+1617,Bone marrow transplant,2
+1618,Pancreatectomy,2
+1619,Pustule,2
+1620,Stool analysis,2
+1621,Face injury,2
+1622,Endometrial cancer,2
+1623,Endometriosis,2
+1624,Weight fluctuation,2
+1625,Mononucleosis heterophile test negative,2
+1626,Sinus node dysfunction,2
+1627,Sleep terror,2
+1628,Hyperdynamic left ventricle,2
+1629,Imprisonment,2
+1630,Nasal dryness,2
+1631,Lymphadenectomy,2
+1632,Cardiac imaging procedure,2
+1633,Complication associated with device,2
+1634,Glaucoma,2
+1635,Rhinitis allergic,2
+1636,Adverse reaction,2
+1637,Prostatic specific antigen,2
+1638,Language disorder,2
+1639,Herpes simplex test,2
+1640,Tunnel vision,2
+1641,Peripheral arterial occlusive disease,2
+1642,Alcohol abuse,2
+1643,Streptococcal infection,2
+1644,Barium swallow,2
+1645,Renal pain,2
+1646,Sinus headache,2
+1647,Oropharyngeal discomfort,2
+1648,Herpes simplex test positive,2
+1649,Pleuropericarditis,2
+1650,Vaccination site discomfort,2
+1651,Chronic inflammatory demyelinating polyradiculoneuropathy,2
+1652,Haptoglobin,2
+1653,Reflex test,2
+1654,Hepatomegaly,2
+1655,Foetal heart rate abnormal,2
+1656,Pregnancy test,2
+1657,Abdominal X-ray,2
+1658,Renal function test abnormal,2
+1659,Spinal operation,2
+1660,Blood creatinine decreased,2
+1661,Acute pulmonary oedema,2
+1662,Bowel movement irregularity,2
+1663,Nasal discomfort,2
+1664,Abdominal cavity drainage,2
+1665,Cardiac imaging procedure normal,2
+1666,Complication of pregnancy,2
+1667,Ultrasound kidney,2
+1668,CSF glucose increased,2
+1669,CSF white blood cell count increased,2
+1670,Neurological examination abnormal,2
+1671,Diagnostic aspiration,2
+1672,B-cell lymphoma,2
+1673,Diffuse large B-cell lymphoma,2
+1674,Breast feeding,2
+1675,Audiogram,2
+1676,Mucous stools,2
+1677,Posture abnormal,2
+1678,Walking disability,2
+1679,Mood swings,2
+1680,Chronic sinusitis,2
+1681,Haemorrhage urinary tract,2
+1682,Ultrasound kidney normal,2
+1683,Diagnostic procedure,2
+1684,Sleep study normal,2
+1685,Multiple sclerosis relapse,2
+1686,Uveitis,2
+1687,Bladder catheter removal,2
+1688,Carotid artery disease,2
+1689,Vocal cord disorder,2
+1690,Thermal burn,2
+1691,Brain stem stroke,2
+1692,Benign hydatidiform mole,2
+1693,Biopsy uterus abnormal,2
+1694,Immunosuppressant drug therapy,2
+1695,Vomiting projectile,2
+1696,Normal pressure hydrocephalus,2
+1697,QRS axis abnormal,2
+1698,Venogram,2
+1699,Purulent discharge,2
+1700,Ulcer,2
+1701,Choking,2
+1702,Allergy to vaccine,2
+1703,Uterine leiomyoma,2
+1704,Factor V Leiden mutation,2
+1705,Muscle discomfort,2
+1706,Attention deficit hyperactivity disorder,2
+1707,Biopsy liver abnormal,2
+1708,Computerised tomogram liver abnormal,2
+1709,Intracardiac thrombus,2
+1710,Polyarthritis,2
+1711,Canalith repositioning procedure,2
+1712,Blood copper,2
+1713,HLA-B*27 assay,2
+1714,Hepatitis viral test,2
+1715,Sexually transmitted disease test,2
+1716,Thoracic vertebral fracture,2
+1717,Fear of disease,2
+1718,Incomplete course of vaccination,2
+1719,Vitamin D decreased,2
+1720,Weight gain poor,2
+1721,Tongue discolouration,2
+1722,Epstein-Barr virus infection reactivation,2
+1723,Coagulation test normal,2
+1724,Cerebellar infarction,2
+1725,Cyanosis,2
+1726,Chlamydia test negative,2
+1727,Mycoplasma test negative,2
+1728,Respiratory pathogen panel,2
+1729,Infertility,2
+1730,Skin test positive,2
+1731,Vulvovaginal discomfort,2
+1732,Optic ischaemic neuropathy,2
+1733,Blood folate,2
+1734,White blood cell count abnormal,2
+1735,Normal labour,2
+1736,Sick relative,2
+1737,Sitting disability,2
+1738,Generalised oedema,2
+1739,Right ventricular enlargement,2
+1740,Scan normal,2
+1741,Akinesia,2
+1742,Dyspnoea paroxysmal nocturnal,2
+1743,Ischaemia,2
+1744,Thalamic infarction,2
+1745,Injection site hypersensitivity,2
+1746,Refusal of treatment by patient,2
+1747,Allen's test,2
+1748,Wound secretion,2
+1749,Metabolic disorder,2
+1750,Gram stain positive,2
+1751,Biopsy bone marrow abnormal,2
+1752,Skin texture abnormal,2
+1753,Foreign body sensation in eyes,2
+1754,Aneurysm ruptured,2
+1755,Catatonia,2
+1756,Blood immunoglobulin M decreased,2
+1757,Microcytic anaemia,2
+1758,Cartilage injury,2
+1759,Skull X-ray,2
+1760,Spinal X-ray normal,2
+1761,Tendon disorder,2
+1762,Pityriasis rosea,2
+1763,Mental fatigue,2
+1764,Nystagmus,2
+1765,Diabetic foot,2
+1766,Pseudomonas test positive,2
+1767,Sputum culture positive,2
+1768,Spinal fracture,2
+1769,Asphyxia,2
+1770,Panic reaction,2
+1771,Cytomegalovirus test negative,2
+1772,Fungal test negative,2
+1773,Herpes simplex test negative,2
+1774,Arteriogram coronary abnormal,2
+1775,Eyelid function disorder,2
+1776,Strabismus,2
+1777,New daily persistent headache,2
+1778,Pharyngitis streptococcal,2
+1779,Band neutrophil count,2
+1780,Mean platelet volume,2
+1781,Cytokine test,2
+1782,Polychromasia,2
+1783,Stomatocytes present,2
+1784,Mucosal dryness,2
+1785,Activated partial thromboplastin time prolonged,2
+1786,Double stranded DNA antibody,2
+1787,Hepatitis A antibody,2
+1788,Norovirus infection,2
+1789,Carotid artery thrombosis,2
+1790,Oligomenorrhoea,2
+1791,Anion gap normal,2
+1792,Early retirement,2
+1793,Tendon rupture,2
+1794,Antineutrophil cytoplasmic antibody negative,2
+1795,Multisystem inflammatory syndrome in children,2
+1796,Postictal state,2
+1797,Angiogram retina,2
+1798,Optical coherence tomography,2
+1799,Visual acuity tests,2
+1800,Vaccination complication,2
+1801,C1 esterase inhibitor test,2
+1802,Vasodilatation,2
+1803,Orthostatic hypertension,2
+1804,Tendon pain,2
+1805,Sinus pain,2
+1806,Change in sustained attention,2
+1807,Skin plaque,2
+1808,Premature menopause,2
+1809,Stress echocardiogram normal,2
+1810,Paraplegia,2
+1811,Culture positive,2
+1812,Proteus test positive,2
+1813,Optic atrophy,2
+1814,Oral surgery,2
+1815,Pancreatitis chronic,2
+1816,Incorrect route of product administration,2
+1817,Antithrombin III,2
+1818,Bladder scan,2
+1819,Candida test negative,2
+1820,Creatinine renal clearance,2
+1821,Occult blood,2
+1822,Coronary artery dissection,2
+1823,Pharyngeal hypoaesthesia,2
+1824,Product label issue,2
+1825,Lower respiratory tract infection,2
+1826,Increased upper airway secretion,2
+1827,Hypercoagulation,2
+1828,Injection site haemorrhage,2
+1829,Drooling,2
+1830,Band neutrophil percentage,2
+1831,Right ventricular dysfunction,2
+1832,Enterococcal infection,2
+1833,Expired device used,2
+1834,Gene sequencing,2
+1835,Debridement,2
+1836,Adenocarcinoma,2
+1837,Pleural fluid analysis abnormal,2
+1838,Hepatobiliary scan,2
+1839,Anti-cyclic citrullinated peptide antibody negative,2
+1840,Nightmare,2
+1841,Dermatitis psoriasiform,2
+1842,Petechiae,2
+1843,Photosensitivity reaction,2
+1844,Joint injury,2
+1845,Vaccination site lymphadenopathy,2
+1846,Lymphadenitis,2
+1847,Cardiolipin antibody positive,2
+1848,Hemiplegic migraine,2
+1849,Hyperthermia,2
+1850,Spinal fusion surgery,2
+1851,Connective tissue disorder,2
+1852,Macular degeneration,2
+1853,Pupil dilation procedure,2
+1854,Cholangitis,2
+1855,Lymphadenopathy mediastinal,2
+1856,Cerebellar stroke,2
+1857,Ophthalmological examination,2
+1858,Oral mucosal blistering,2
+1859,Tongue blistering,2
+1860,Clostridium test,2
+1861,Differential white blood cell count abnormal,2
+1862,Gram stain,2
+1863,Lipase,2
+1864,N-terminal prohormone brain natriuretic peptide,2
+1865,Platelet transfusion,2
+1866,Anti-GAD antibody,2
+1867,Anti-IA2 antibody,2
+1868,Hepatitis B surface antibody,2
+1869,Intervertebral disc space narrowing,2
+1870,Large intestine infection,2
+1871,Compression garment application,2
+1872,Fluorescent in situ hybridisation,2
+1873,Prothrombin time shortened,2
+1874,Human metapneumovirus test positive,2
+1875,Post herpetic neuralgia,2
+1876,Injection site paraesthesia,2
+1877,Scratch,2
+1878,Immunology test normal,2
+1879,Ventilation/perfusion scan normal,2
+1880,Gene mutation identification test negative,2
+1881,Heparin-induced thrombocytopenia test,2
+1882,Protein S,2
+1883,Cortisol normal,2
+1884,Occult blood positive,2
+1885,Prolonged labour,2
+1886,Hepatitis C,2
+1887,Colorectal adenoma,2
+1888,Epigastric discomfort,2
+1889,Mammogram normal,2
+1890,Tongue disorder,2
+1891,Bradyphrenia,2
+1892,Metastases to liver,2
+1893,Subclavian vein thrombosis,2
+1894,Venous occlusion,2
+1895,Abnormal dreams,2
+1896,Hiccups,2
+1897,Blood alkaline phosphatase decreased,2
+1898,Cervical radiculopathy,2
+1899,Vaccination site bruising,2
+1900,Guttate psoriasis,2
+1901,Platelet factor 4,2
+1902,Blood ketone body increased,2
+1903,Respiratory tract infection viral,2
+1904,Skin tightness,2
+1905,Pregnancy test positive,2
+1906,Nucleated red cells,2
+1907,Pyelonephritis,2
+1908,Blood phosphorus decreased,2
+1909,Haemoglobin urine absent,2
+1910,Functional gastrointestinal disorder,2
+1911,Gastritis haemorrhagic,2
+1912,Impaired gastric emptying,2
+1913,Oropharyngeal suctioning,2
+1914,Pupillary reflex impaired,2
+1915,Urine ketone body,2
+1916,White blood cells urine,2
+1917,Diabetes mellitus inadequate control,2
+1918,Skin haemorrhage,2
+1919,Ultrasound scan vagina normal,2
+1920,Lymphatic disorder,2
+1921,Poor peripheral circulation,2
+1922,Gingival swelling,2
+1923,Purpura,2
+1924,Blood pressure systolic increased,2
+1925,Thyroid function test abnormal,2
+1926,Sedation,2
+1927,Tearfulness,2
+1928,Vaginal discharge,2
+1929,Facial bones fracture,2
+1930,Smooth muscle antibody,2
+1931,CSF test,2
+1932,Skin hypertrophy,2
+1933,White blood cell disorder,2
+1934,Cutaneous vasculitis,2
+1935,Troponin T,2
+1936,Shoulder injury related to vaccine administration,2
+1937,Cerebral endovascular aneurysm repair,2
+1938,Metastasis,2
+1939,Hypoxic-ischaemic encephalopathy,2
+1940,Hypertensive heart disease,2
+1941,Hepatorenal syndrome,2
+1942,Product expiration date issue,2
+1943,Base excess increased,2
+1944,Oxygen saturation normal,2
+1945,Terminal state,2
+1946,Ceruloplasmin,2
+1947,Bilirubin conjugated normal,2
+1948,Cryptococcus test,2
+1949,Culture wound,2
+1950,Retinopexy,2
+1951,Acute disseminated encephalomyelitis,2
+1952,Blood immunoglobulin G normal,2
+1953,Overweight,2
+1954,Infectious mononucleosis,2
+1955,Blood urea decreased,2
+1956,Blood pressure orthostatic abnormal,1
+1957,Arthritis reactive,1
+1958,Euphoric mood,1
+1959,Thyroiditis,1
+1960,Arterial therapeutic procedure,1
+1961,Conversion disorder,1
+1962,Herpes ophthalmic,1
+1963,Leg amputation,1
+1964,Therapy non-responder,1
+1965,Injection site mass,1
+1966,Rhinovirus infection,1
+1967,Spinal cord operation,1
+1968,Iridocyclitis,1
+1969,Brain neoplasm malignant,1
+1970,Cervix carcinoma stage IV,1
+1971,Atrial thrombosis,1
+1972,Orthostatic intolerance,1
+1973,Allergy to animal,1
+1974,Arthropod bite,1
+1975,DNA antibody negative,1
+1976,Milk allergy,1
+1977,Cardiac valve disease,1
+1978,Endocarditis,1
+1979,Apnoeic attack,1
+1980,Cystoscopy normal,1
+1981,Urogram abnormal,1
+1982,Blood bicarbonate,1
+1983,Hypocalcaemia,1
+1984,Kidney enlargement,1
+1985,Oliguria,1
+1986,X-ray gastrointestinal tract abnormal,1
+1987,Spondylolisthesis,1
+1988,Skin weeping,1
+1989,Cytopenia,1
+1990,Graft versus host disease,1
+1991,Myopathy,1
+1992,Hip surgery,1
+1993,Eyelid margin crusting,1
+1994,Planning to become pregnant,1
+1995,Open reduction of fracture,1
+1996,Cholelithotomy,1
+1997,Uterine contractions during pregnancy,1
+1998,Derealisation,1
+1999,Creutzfeldt-Jakob disease,1
+2000,Dementia with Lewy bodies,1
+2001,Chronic respiratory disease,1
+2002,Sudden onset of sleep,1
+2003,Endoscopy abnormal,1
+2004,Gastrointestinal ulcer,1
+2005,Blood creatine phosphokinase abnormal,1
+2006,Spirometry,1
+2007,Parapsoriasis,1
+2008,Hospitalisation,1
+2009,Nonspecific reaction,1
+2010,Compression fracture,1
+2011,Urinary tract disorder,1
+2012,Porphyria,1
+2013,Eye operation,1
+2014,Eructation,1
+2015,Irritable bowel syndrome,1
+2016,Loss of libido,1
+2017,Schizophreniform disorder,1
+2018,Teeth brittle,1
+2019,Tooth discolouration,1
+2020,Chest scan abnormal,1
+2021,Biopsy muscle,1
+2022,Dermatomyositis,1
+2023,Lyme disease,1
+2024,Blood gonadotrophin,1
+2025,Blood growth hormone,1
+2026,Growth hormone deficiency,1
+2027,Hypogonadism,1
+2028,ACTH stimulation test,1
+2029,Angiotensin converting enzyme,1
+2030,Blood prolactin,1
+2031,Insulin-like growth factor,1
+2032,Water deprivation test,1
+2033,Arteriogram coronary normal,1
+2034,Mitral valve disease,1
+2035,Escherichia test,1
+2036,Conjunctivitis viral,1
+2037,Meconium in amniotic fluid,1
+2038,Premature labour,1
+2039,Hyposmia,1
+2040,Gastrointestinal decompression,1
+2041,Large intestine polyp,1
+2042,Mixed connective tissue disease,1
+2043,X-ray with contrast upper gastrointestinal tract,1
+2044,Urine sodium normal,1
+2045,Herpes zoster reactivation,1
+2046,Pulmonary toxicity,1
+2047,Cancer surgery,1
+2048,AST/ALT ratio,1
+2049,Blood bilirubin decreased,1
+2050,Cyclothymic disorder,1
+2051,Fluid replacement,1
+2052,Gamma-glutamyltransferase increased,1
+2053,Prealbumin decreased,1
+2054,Prostatic obstruction,1
+2055,SARS-CoV-1 test negative,1
+2056,Urinary casts present,1
+2057,Vascular calcification,1
+2058,Poor quality sleep,1
+2059,Head impulse test,1
+2060,Mantle cell lymphoma,1
+2061,Fallopian tube operation,1
+2062,Hormone level abnormal,1
+2063,Intra-uterine contraceptive device removal,1
+2064,Dyspnoea at rest,1
+2065,Injection site urticaria,1
+2066,Carcinoid tumour of the gastrointestinal tract,1
+2067,Skin sensitisation,1
+2068,Herpes virus infection,1
+2069,Haemochromatosis,1
+2070,Injection site inflammation,1
+2071,Blood gases normal,1
+2072,Blood phosphorus increased,1
+2073,Bone demineralisation,1
+2074,Hyperparathyroidism tertiary,1
+2075,Lung hyperinflation,1
+2076,Adhesiolysis,1
+2077,Colostomy,1
+2078,Gastrointestinal stoma complication,1
+2079,General physical condition abnormal,1
+2080,Urostomy,1
+2081,Abdominal tenderness,1
+2082,Cerebral ventricle dilatation,1
+2083,Faecaloma,1
+2084,Barrett's oesophagus,1
+2085,Intestinal dilatation,1
+2086,Neurogenic bladder,1
+2087,Fracture treatment,1
+2088,Toe operation,1
+2089,Miosis,1
+2090,Hepatitis C antibody positive,1
+2091,Blood follicle stimulating hormone normal,1
+2092,Blood luteinising hormone normal,1
+2093,Epstein-Barr virus antibody positive,1
+2094,Glycated albumin increased,1
+2095,Iron binding capacity total decreased,1
+2096,Renal neoplasm,1
+2097,Electrogastrogram,1
+2098,Meningoencephalitis herpetic,1
+2099,Autoimmune neuropathy,1
+2100,Myocardial injury,1
+2101,Discouragement,1
+2102,Chillblains,1
+2103,Electrophoresis protein abnormal,1
+2104,Xerosis,1
+2105,Meningitis cryptococcal,1
+2106,Microembolism,1
+2107,Carotid arteriosclerosis,1
+2108,Neurological decompensation,1
+2109,Hypersensitivity vasculitis,1
+2110,Haemothorax,1
+2111,Blood pressure systolic decreased,1
+2112,Congenital diaphragmatic hernia,1
+2113,Diaphragmatic hernia,1
+2114,Gastrointestinal mucosa hyperaemia,1
+2115,Gastrointestinal necrosis,1
+2116,Incarcerated hernia,1
+2117,Ischaemic hepatitis,1
+2118,Small intestinal resection,1
+2119,Lagophthalmos,1
+2120,Tangentiality,1
+2121,Insulin resistance,1
+2122,Ketoacidosis,1
+2123,Generalised anxiety disorder,1
+2124,Magnetic resonance imaging thoracic normal,1
+2125,Diabetic diet,1
+2126,Hypertrophic cardiomyopathy,1
+2127,Enterocolitis,1
+2128,Hydrocholecystis,1
+2129,Aortic valve disease,1
+2130,Cardiac valve vegetation,1
+2131,Duodenal ulcer perforation,1
+2132,Haemostasis,1
+2133,Lambl's excrescences,1
+2134,Aortic dilatation,1
+2135,Metastases to lung,1
+2136,Rectal cancer,1
+2137,Forced expiratory volume,1
+2138,Bronchiectasis,1
+2139,Rash pustular,1
+2140,Binocular eye movement disorder,1
+2141,Gastrointestinal viral infection,1
+2142,Procedural failure,1
+2143,Endoscopic retrograde cholangiopancreatography abnormal,1
+2144,Red blood cell count increased,1
+2145,Crohn's disease,1
+2146,Autonomic neuropathy,1
+2147,Thyroid gland injury,1
+2148,Thyroid hormones test,1
+2149,Ceruloplasmin normal,1
+2150,Iron binding capacity total normal,1
+2151,Serum ferritin normal,1
+2152,Vitamin B6 increased,1
+2153,Gastric cancer stage IV,1
+2154,Lip pain,1
+2155,Oral pain,1
+2156,Bladder catheter replacement,1
+2157,Device leakage,1
+2158,Cold urticaria,1
+2159,Histamine intolerance,1
+2160,Rubber sensitivity,1
+2161,Pulmonary calcification,1
+2162,Cardiac assistance device user,1
+2163,Electrocardiogram PR interval,1
+2164,Live birth,1
+2165,Pulpitis dental,1
+2166,Depression suicidal,1
+2167,Magnetic resonance imaging joint,1
+2168,Blood follicle stimulating hormone increased,1
+2169,Electrocardiogram ST segment depression,1
+2170,Adrenal adenoma,1
+2171,Anovulatory cycle,1
+2172,Drainage,1
+2173,Multisystem inflammatory syndrome,1
+2174,Sacroiliac joint dysfunction,1
+2175,Breast discomfort,1
+2176,Aspiration joint abnormal,1
+2177,Tenosynovitis,1
+2178,Left ventricle outflow tract obstruction,1
+2179,Cardiac telemetry abnormal,1
+2180,Joint dislocation reduction,1
+2181,Juvenile idiopathic arthritis,1
+2182,Blood elastase,1
+2183,Endoscopy upper gastrointestinal tract normal,1
+2184,Magnetic resonance imaging abdominal normal,1
+2185,Encephalitis viral,1
+2186,Faecal calprotectin abnormal,1
+2187,Hernia repair,1
+2188,Device function test,1
+2189,Diabetes mellitus management,1
+2190,Knee operation,1
+2191,Periprosthetic fracture,1
+2192,Stasis dermatitis,1
+2193,Haemangioma,1
+2194,Abortion induced,1
+2195,Foetal chromosome abnormality,1
+2196,Brain neoplasm,1
+2197,Impulsive behaviour,1
+2198,Glioblastoma multiforme,1
+2199,Skin candida,1
+2200,Vasogenic cerebral oedema,1
+2201,Retinal disorder,1
+2202,Pancreatic cyst,1
+2203,Wrong technique in product usage process,1
+2204,Odynophagia,1
+2205,Feeling jittery,1
+2206,Scleroderma,1
+2207,Female sex hormone level abnormal,1
+2208,Smear cervix,1
+2209,Cardiopulmonary exercise test abnormal,1
+2210,Allodynia,1
+2211,Cox-Maze procedure,1
+2212,Ischaemic cardiomyopathy,1
+2213,Left atrial appendage closure implant,1
+2214,Tension headache,1
+2215,Biopsy muscle abnormal,1
+2216,Biopsy peripheral nerve abnormal,1
+2217,Granulomatosis with polyangiitis,1
+2218,Adrenal neoplasm,1
+2219,Residual urine volume increased,1
+2220,Sickle cell trait,1
+2221,Vitamin D deficiency,1
+2222,Bladder cancer,1
+2223,Corynebacterium infection,1
+2224,Angioimmunoblastic T-cell lymphoma,1
+2225,Retinal vasculitis,1
+2226,Susac's syndrome,1
+2227,Blood immunoglobulin M,1
+2228,Cell marker,1
+2229,Histiocytic necrotising lymphadenitis,1
+2230,Mycobacterium test,1
+2231,Idiopathic urticaria,1
+2232,Chronic lymphocytic leukaemia,1
+2233,"Hallucination, olfactory",1
+2234,Myosclerosis,1
+2235,Thyroiditis subacute,1
+2236,Oesophageal oedema,1
+2237,Behaviour disorder,1
+2238,Salpingectomy,1
+2239,Subdural haemorrhage,1
+2240,Puncture site reaction,1
+2241,Upper respiratory tract inflammation,1
+2242,Large granular lymphocytosis,1
+2243,Laryngoscopy,1
+2244,Endometrial hyperplasia,1
+2245,Lacrimal disorder,1
+2246,Mydriasis,1
+2247,Genital herpes,1
+2248,Blood creatine phosphokinase MB normal,1
+2249,Thoracotomy,1
+2250,Injection site vesicles,1
+2251,Lymphangitis,1
+2252,Phlebitis,1
+2253,Bladder discomfort,1
+2254,Frequent bowel movements,1
+2255,Onychoclasis,1
+2256,Blood bilirubin unconjugated,1
+2257,CSF cell count,1
+2258,Coombs direct test,1
+2259,Electroneuromyography,1
+2260,Haemolytic anaemia,1
+2261,Immunoelectrophoresis,1
+2262,Light chain analysis,1
+2263,Reticulocyte count,1
+2264,Romberg test,1
+2265,Skin test,1
+2266,Vascular endothelial growth factor assay,1
+2267,Vaccination site injury,1
+2268,Device connection issue,1
+2269,Vestibular function test,1
+2270,Ultrasound pelvis,1
+2271,Cardiorenal syndrome,1
+2272,"Hallucination, visual",1
+2273,Pulse abnormal,1
+2274,Antineutrophil cytoplasmic antibody increased,1
+2275,Antineutrophil cytoplasmic antibody positive,1
+2276,Alcohol test negative,1
+2277,Skin injury,1
+2278,Urogram,1
+2279,Colon cancer metastatic,1
+2280,Febrile neutropenia,1
+2281,Neutropenia,1
+2282,Gastrointestinal ulcer haemorrhage,1
+2283,Foetal monitoring,1
+2284,Areflexia,1
+2285,Brugada syndrome,1
+2286,Hyporeflexia,1
+2287,Neurogenic cough,1
+2288,Reflux laryngitis,1
+2289,Haemorrhagic ovarian cyst,1
+2290,Testicular swelling,1
+2291,Cardiac electrophysiologic study,1
+2292,Diffuse cutaneous mastocytosis,1
+2293,Accidental overdose,1
+2294,Pseudolymphoma,1
+2295,Rash maculo-papular,1
+2296,Limb deformity,1
+2297,Stiff person syndrome,1
+2298,Electrocardiogram ST segment abnormal,1
+2299,Gastrointestinal scan,1
+2300,Malignant pleural effusion,1
+2301,Patient restraint,1
+2302,Plantar fasciitis,1
+2303,Accident,1
+2304,Burns third degree,1
+2305,Respiratory fume inhalation disorder,1
+2306,Skin wound,1
+2307,Oesophageal pain,1
+2308,Invasive breast carcinoma,1
+2309,Fibromuscular dysplasia,1
+2310,Ultrasound antenatal screen abnormal,1
+2311,Anuria,1
+2312,Enuresis,1
+2313,Pathological fracture,1
+2314,Radius fracture,1
+2315,Blood osmolarity decreased,1
+2316,Urine sodium increased,1
+2317,Cerebral arteriosclerosis,1
+2318,Computerised tomogram venography head,1
+2319,Cognitive test,1
+2320,Skin lesion removal,1
+2321,Eye contusion,1
+2322,Suicide attempt,1
+2323,Cervical spinal stenosis,1
+2324,Immobile,1
+2325,Product packaging confusion,1
+2326,Metastatic lymphoma,1
+2327,Supine position,1
+2328,Adrenocortical insufficiency acute,1
+2329,Blood corticotrophin abnormal,1
+2330,T-cell lymphoma,1
+2331,Milia,1
+2332,Motion sickness,1
+2333,Brain cancer metastatic,1
+2334,Neoplasm progression,1
+2335,Budd-Chiari syndrome,1
+2336,Magnetic resonance imaging hepatobiliary abnormal,1
+2337,Model for end stage liver disease score,1
+2338,Parasite blood test,1
+2339,Peritoneal fluid analysis abnormal,1
+2340,Portal shunt procedure,1
+2341,Vena cava thrombosis,1
+2342,Arterial recanalisation procedure,1
+2343,Cerebral artery thrombosis,1
+2344,Migraine with aura,1
+2345,Chronic disease,1
+2346,Intraventricular haemorrhage,1
+2347,Cochlea implant,1
+2348,Retinal vein occlusion,1
+2349,Cardiovascular function test,1
+2350,Joint lock,1
+2351,Audiogram abnormal,1
+2352,Anti-cyclic citrullinated peptide antibody positive,1
+2353,Rheumatoid factor positive,1
+2354,Insurance issue,1
+2355,Writer's cramp,1
+2356,Ultrasound head abnormal,1
+2357,Antiacetylcholine receptor antibody,1
+2358,Dysphemia,1
+2359,HIV test,1
+2360,Heavy metal test,1
+2361,Iron binding capacity total,1
+2362,Cardiac therapeutic procedure,1
+2363,Craniocerebral injury,1
+2364,Retrograde amnesia,1
+2365,Cardiac monitoring normal,1
+2366,Tilt table test normal,1
+2367,Vocal cord dysfunction,1
+2368,Panniculitis,1
+2369,Bundle branch block left,1
+2370,Essential tremor,1
+2371,Aortic dissection,1
+2372,Blood pressure diastolic increased,1
+2373,Endocrine test abnormal,1
+2374,Insulin-like growth factor increased,1
+2375,Social anxiety disorder,1
+2376,Amino acid level,1
+2377,Blood homocysteine,1
+2378,Female sex hormone level,1
+2379,Tongue dry,1
+2380,Tonsillar hypertrophy,1
+2381,Tonsillolith,1
+2382,Device dislocation,1
+2383,X-ray gastrointestinal tract,1
+2384,B-lymphocyte abnormalities,1
+2385,Follicular lymphoma,1
+2386,Eye paraesthesia,1
+2387,Gastric dilatation,1
+2388,Noninfective oophoritis,1
+2389,Uterine inflammation,1
+2390,Uterine mass,1
+2391,Device physical property issue,1
+2392,Fibula fracture,1
+2393,Viral load abnormal,1
+2394,Delusion of grandeur,1
+2395,Gene mutation,1
+2396,Alien limb syndrome,1
+2397,Carotid artery stenosis,1
+2398,Scan abdomen abnormal,1
+2399,Injection site discolouration,1
+2400,Blood elastase decreased,1
+2401,Early satiety,1
+2402,Chromosomal analysis,1
+2403,Neutrophil count abnormal,1
+2404,Invasive ductal breast carcinoma,1
+2405,HIV test positive,1
+2406,Procedural haemorrhage,1
+2407,Liver scan abnormal,1
+2408,Oesophageal variceal ligation,1
+2409,Portal vein cavernous transformation,1
+2410,Malignant neoplasm progression,1
+2411,Hepatic artery aneurysm,1
+2412,Alcohol intolerance,1
+2413,Autoinflammatory disease,1
+2414,Connective tissue inflammation,1
+2415,Respiratory tract inflammation,1
+2416,Stress echocardiogram abnormal,1
+2417,Hypoperfusion,1
+2418,Granuloma,1
+2419,Product colour issue,1
+2420,Initial insomnia,1
+2421,Bradykinesia,1
+2422,Feeding tube user,1
+2423,Lung carcinoma cell type unspecified recurrent,1
+2424,Substance use,1
+2425,Base excess decreased,1
+2426,Oxygen consumption,1
+2427,Cutaneous T-cell lymphoma,1
+2428,Drug reaction with eosinophilia and systemic symptoms,1
+2429,Nodal arrhythmia,1
+2430,Enteritis,1
+2431,Candida infection,1
+2432,Right atrial enlargement,1
+2433,Bronchogram abnormal,1
+2434,Sinusitis bacterial,1
+2435,Janus kinase 2 mutation,1
+2436,Polycythaemia vera,1
+2437,Cerebrospinal fluid leakage,1
+2438,Ear tube insertion,1
+2439,Extradural abscess,1
+2440,Mastoidectomy,1
+2441,Mastoiditis,1
+2442,Sputum abnormal,1
+2443,Left ventricular enlargement,1
+2444,Systolic dysfunction,1
+2445,Escherichia urinary tract infection,1
+2446,Mitral valve stenosis,1
+2447,Electroconvulsive therapy,1
+2448,Erectile dysfunction,1
+2449,Enlarged cerebral perivascular spaces,1
+2450,Facial wasting,1
+2451,Morton's neuralgia,1
+2452,IVth nerve disorder,1
+2453,Oesophageal injury,1
+2454,Blood immunoglobulin E normal,1
+2455,Heavy metal normal,1
+2456,Laryngoscopy abnormal,1
+2457,Nasal oedema,1
+2458,Nasal septum deviation,1
+2459,Nasolaryngoscopy,1
+2460,Retention cyst,1
+2461,Pityriasis,1
+2462,Arthritis bacterial,1
+2463,Pre-eclampsia,1
+2464,Blood testosterone,1
+2465,Nail disorder,1
+2466,Nail psoriasis,1
+2467,Snoring,1
+2468,X-ray dental abnormal,1
+2469,Arterial insufficiency,1
+2470,Blood phosphorus normal,1
+2471,Hepatobiliary scan normal,1
+2472,Frostbite,1
+2473,Pulmonary artery thrombosis,1
+2474,Device occlusion,1
+2475,Obstruction gastric,1
+2476,Sinus arrhythmia,1
+2477,Serum ferritin decreased,1
+2478,Transferrin saturation decreased,1
+2479,Herpes simplex,1
+2480,Coronary artery dilatation,1
+2481,Human herpes virus 6 serology negative,1
+2482,Lip exfoliation,1
+2483,Varicella virus test negative,1
+2484,Blood immunoglobulin G increased,1
+2485,Body temperature fluctuation,1
+2486,Cystitis escherichia,1
+2487,Ovarian cancer,1
+2488,Ovarian mass,1
+2489,Biopsy ear,1
+2490,Chondrodermatitis nodularis chronica helicis,1
+2491,Nail discolouration,1
+2492,Nail infection,1
+2493,Nail operation,1
+2494,Neoplasm skin,1
+2495,Abdominal infection,1
+2496,Vertebral artery thrombosis,1
+2497,Biopsy bone marrow normal,1
+2498,Blood lactate dehydrogenase normal,1
+2499,Electrophoresis protein normal,1
+2500,Reticulocyte count normal,1
+2501,Elliptocytosis,1
+2502,Macrocytosis,1
+2503,Metamyelocyte percentage,1
+2504,Red blood cell abnormality,1
+2505,Specific gravity urine increased,1
+2506,Chronic kidney disease-mineral and bone disorder,1
+2507,Fistula,1
+2508,Granulocytes abnormal,1
+2509,Jugular vein distension,1
+2510,Basophil percentage increased,1
+2511,Flat affect,1
+2512,Protrusion tongue,1
+2513,Granulocyte percentage increased,1
+2514,Pharyngeal exudate,1
+2515,Recurrent cancer,1
+2516,Polyarteritis nodosa,1
+2517,Hepatitis C virus test positive,1
+2518,Tuberculosis,1
+2519,Complex regional pain syndrome,1
+2520,Rosai-Dorfman syndrome,1
+2521,Scan lymph nodes,1
+2522,Total complement activity test,1
+2523,Transaminases,1
+2524,BK polyomavirus test negative,1
+2525,Biopsy colon normal,1
+2526,Biopsy small intestine normal,1
+2527,Biopsy stomach normal,1
+2528,Cytomegalovirus viraemia,1
+2529,Norovirus test positive,1
+2530,Oesophageal candidiasis,1
+2531,Sigmoidoscopy abnormal,1
+2532,Vitamin supplementation,1
+2533,Breast cancer stage I,1
+2534,Hormone receptor positive HER2 negative breast cancer,1
+2535,Hormone receptor positive breast cancer,1
+2536,Blood pressure diastolic decreased,1
+2537,Carotid endarterectomy,1
+2538,Histamine level increased,1
+2539,Mean cell haemoglobin concentration increased,1
+2540,Stridor,1
+2541,Necrotising fasciitis,1
+2542,Perfume sensitivity,1
+2543,Blood lactate dehydrogenase increased,1
+2544,Kawasaki's disease,1
+2545,Mycoplasma test positive,1
+2546,Serum ferritin increased,1
+2547,Still's disease,1
+2548,Catheter directed thrombolysis,1
+2549,Catheter removal,1
+2550,Micrographic skin surgery,1
+2551,Brain stent insertion,1
+2552,Intra-cerebral aneurysm operation,1
+2553,Breast cancer metastatic,1
+2554,Breast cancer stage IV,1
+2555,Squamous cell carcinoma of skin,1
+2556,Rotator cuff syndrome,1
+2557,Colour vision tests,1
+2558,Fundoscopy,1
+2559,Fundus autofluorescence,1
+2560,Ophthalmic scan,1
+2561,Periphlebitis,1
+2562,Retinal white dots syndrome,1
+2563,Slit-lamp examination,1
+2564,Rheumatological examination,1
+2565,Vaccination site infection,1
+2566,Splenic injury,1
+2567,Complement factor C1,1
+2568,Hereditary angioedema with normal C1 esterase inhibitor,1
+2569,Capsular contracture associated with breast implant,1
+2570,Macule,1
+2571,Blood smear test,1
+2572,Malaria antigen test,1
+2573,Nipple pain,1
+2574,Onychomadesis,1
+2575,Bladder pain,1
+2576,Brain scan abnormal,1
+2577,Nasal inflammation,1
+2578,Nasoendoscopy,1
+2579,Computerised tomogram coronary artery normal,1
+2580,Diaphragmatic spasm,1
+2581,Rhinitis,1
+2582,Cervical dysplasia,1
+2583,Acute cardiac event,1
+2584,Genital ulceration,1
+2585,Paranasal sinus inflammation,1
+2586,Wrist fracture,1
+2587,Dermal cyst,1
+2588,Hemianopia homonymous,1
+2589,Pulmonary hilar enlargement,1
+2590,Brain compression,1
+2591,Brain lobectomy,1
+2592,Decompressive craniectomy,1
+2593,Neurologic neglect syndrome,1
+2594,Oral lichen planus,1
+2595,Oral soft tissue biopsy,1
+2596,Blood copper increased,1
+2597,Incoherent,1
+2598,Anti-interferon antibody,1
+2599,Tuberculin test false positive,1
+2600,Genital lesion,1
+2601,Petit mal epilepsy,1
+2602,Facial paresis,1
+2603,High frequency ablation,1
+2604,Optic neuropathy,1
+2605,Dizziness exertional,1
+2606,Tilt table test positive,1
+2607,Biopsy kidney abnormal,1
+2608,Motor dysfunction,1
+2609,Dysplasia,1
+2610,Glossectomy,1
+2611,Human papilloma virus test negative,1
+2612,Laser therapy,1
+2613,Leukoplakia oral,1
+2614,Squamous cell carcinoma of the tongue,1
+2615,Carotid artery aneurysm,1
+2616,Azotaemia,1
+2617,Blood fibrinogen normal,1
+2618,Coagulation factor IX level normal,1
+2619,Coagulation factor V level normal,1
+2620,Coagulation factor VIII level normal,1
+2621,Coagulation factor X level normal,1
+2622,Coagulation factor XII level normal,1
+2623,Cranial nerve paralysis,1
+2624,IIIrd nerve paralysis,1
+2625,Protein S normal,1
+2626,Prothrombin level normal,1
+2627,Von Willebrand's factor antigen test,1
+2628,Bacterial disease carrier,1
+2629,Tidal volume abnormal,1
+2630,Urinary tract obstruction,1
+2631,Coombs indirect test,1
+2632,Occult blood negative,1
+2633,Rhesus antibodies,1
+2634,Abdominal operation,1
+2635,Cytogenetic analysis normal,1
+2636,Liver operation,1
+2637,Lung operation,1
+2638,Skin irritation,1
+2639,Antiacetylcholine receptor antibody positive,1
+2640,Injection site joint pain,1
+2641,Thyroxine normal,1
+2642,Tri-iodothyronine free normal,1
+2643,Tri-iodothyronine normal,1
+2644,Obstructive airways disorder,1
+2645,Morganella test positive,1
+2646,Vaccination site abscess sterile,1
+2647,Procedure aborted,1
+2648,Needle issue,1
+2649,Lumbar radiculopathy,1
+2650,Scan brain,1
+2651,Blunted affect,1
+2652,Metamyelocyte count,1
+2653,Mood altered,1
+2654,Schizoaffective disorder,1
+2655,Vertebral osteophyte,1
+2656,Electrocardiogram QT interval,1
+2657,Right ventricular dilatation,1
+2658,Angioplasty,1
+2659,Foot amputation,1
+2660,Gangrene,1
+2661,Peripheral ischaemia,1
+2662,Toe amputation,1
+2663,Blood glucagon,1
+2664,Hepatic cancer stage IV,1
+2665,Emergency care examination,1
+2666,Erythema multiforme,1
+2667,Parvovirus B19 test,1
+2668,Blood cholesterol abnormal,1
+2669,Pyruvate dehydrogenase complex deficiency,1
+2670,Premenstrual syndrome,1
+2671,Oesophagram,1
+2672,Mucosal inflammation,1
+2673,Nasal crusting,1
+2674,Acute lymphocytic leukaemia,1
+2675,B-cell type acute leukaemia,1
+2676,Philadelphia chromosome negative,1
+2677,Cerumen removal,1
+2678,Cholecystogram intravenous abnormal,1
+2679,Oxygen saturation increased,1
+2680,Vagal nerve stimulator implantation,1
+2681,Ureteric obstruction,1
+2682,Borrelia test positive,1
+2683,Rosacea,1
+2684,Slow response to stimuli,1
+2685,Enanthema,1
+2686,Genital rash,1
+2687,Oral mucosal eruption,1
+2688,Respiratory tract irritation,1
+2689,Serum sickness-like reaction,1
+2690,Therapeutic product effect decreased,1
+2691,Suspected product contamination,1
+2692,Suspected product quality issue,1
+2693,Adenoidal disorder,1
+2694,Pseudomonas infection,1
+2695,Synovitis,1
+2696,Urinary hesitation,1
+2697,Lip haemorrhage,1
+2698,Lip injury,1
+2699,Complications of transplanted heart,1
+2700,Disease complication,1
+2701,Heart transplant,1
+2702,Herpes zoster oticus,1
+2703,Lip disorder,1
+2704,Coronary angioplasty,1
+2705,Loss of employment,1
+2706,Haemodynamic test,1
+2707,Rash morbilliform,1
+2708,Cerebellar artery thrombosis,1
+2709,Total lung capacity abnormal,1
+2710,Polymerase chain reaction positive,1
+2711,Serratia test positive,1
+2712,Human rhinovirus test positive,1
+2713,Osteonecrosis,1
+2714,Neuromyotonia,1
+2715,Cataract nuclear,1
+2716,Dermatochalasis,1
+2717,Macula thickness measurement,1
+2718,Macular thickening,1
+2719,Retinal artery embolism,1
+2720,Retinal depigmentation,1
+2721,Retinal vascular disorder,1
+2722,Slit-lamp tests abnormal,1
+2723,Vitreous adhesions,1
+2724,Starvation ketoacidosis,1
+2725,Biliary obstruction,1
+2726,Electrocardiogram ST-T change,1
+2727,Endocrine test,1
+2728,Eye symptom,1
+2729,Urosepsis,1
+2730,Salmonella test positive,1
+2731,Salmonellosis,1
+2732,Medical device implantation,1
+2733,Arachnoid cyst,1
+2734,Dyschromatopsia,1
+2735,Tongue ulceration,1
+2736,Ulcer haemorrhage,1
+2737,Product lot number issue,1
+2738,Bone swelling,1
+2739,Pityriasis lichenoides et varioliformis acuta,1
+2740,Psychiatric symptom,1
+2741,Apathy,1
+2742,Activated partial thromboplastin time abnormal,1
+2743,Blood uric acid abnormal,1
+2744,CSF cell count abnormal,1
+2745,Haemoglobin electrophoresis,1
+2746,Immunoglobulins,1
+2747,Plasmablastic lymphoma,1
+2748,Platelet count abnormal,1
+2749,Procalcitonin abnormal,1
+2750,Rhesus antigen,1
+2751,Tri-iodothyronine free,1
+2752,Varicella virus test,1
+2753,Grunting,1
+2754,Anal cancer,1
+2755,Papilloma viral infection,1
+2756,Perineal cyst,1
+2757,Blood immunoglobulin G decreased,1
+2758,Albumin urine,1
+2759,Anti-islet cell antibody negative,1
+2760,Blood triglycerides normal,1
+2761,Bone fissure,1
+2762,Creatinine urine,1
+2763,HLA-B*27 positive,1
+2764,Hepatitis B core antibody negative,1
+2765,Hepatitis C antibody negative,1
+2766,Insulin C-peptide decreased,1
+2767,Interferon gamma level,1
+2768,Mycobacterium tuberculosis complex test,1
+2769,Osteosclerosis,1
+2770,Scoliosis,1
+2771,Total cholesterol/HDL ratio increased,1
+2772,Biopsy peripheral nerve,1
+2773,Alcohol detoxification,1
+2774,Alcohol withdrawal syndrome,1
+2775,Localised oedema,1
+2776,Knee arthroplasty,1
+2777,Arterial catheterisation,1
+2778,Anti-muscle specific kinase antibody,1
+2779,Synovial fluid analysis abnormal,1
+2780,Electronystagmogram,1
+2781,Alkalosis hypochloraemic,1
+2782,Vertebrobasilar artery dissection,1
+2783,Varices oesophageal,1
+2784,Brachial plexopathy,1
+2785,Neuralgic amyotrophy,1
+2786,Varicocele,1
+2787,Hyperbaric oxygen therapy,1
+2788,Hypogammaglobulinaemia,1
+2789,Blood chloride abnormal,1
+2790,Blood potassium abnormal,1
+2791,PCO2,1
+2792,PO2,1
+2793,pH body fluid,1
+2794,Arthroscopy,1
+2795,Biopsy lung,1
+2796,Alopecia universalis,1
+2797,Madarosis,1
+2798,Back injury,1
+2799,Upper respiratory tract congestion,1
+2800,Multiple fractures,1
+2801,Anticoagulation drug level below therapeutic,1
+2802,COVID-19 screening,1
+2803,Pulmonary pain,1
+2804,Subcutaneous haematoma,1
+2805,Immune-mediated pancreatitis,1
+2806,Stab wound,1
+2807,IgA nephropathy,1
+2808,Viral rash,1
+2809,Glassy eyes,1
+2810,Cardiopulmonary bypass,1
+2811,Contraception,1
+2812,Nasal pruritus,1
+2813,Cardiac index increased,1
+2814,Wall motion score index normal,1
+2815,Ultrasound bladder normal,1
+2816,Allergy test negative,1
+2817,Temporomandibular joint syndrome,1
+2818,Facial discomfort,1
+2819,Drug hypersensitivity,1
+2820,Nutritional condition abnormal,1
+2821,Underweight,1
+2822,Urinary tract candidiasis,1
+2823,Iron binding capacity total increased,1
+2824,Urine uric acid normal,1
+2825,Factor VIII activity normal,1
+2826,Magnetic resonance imaging whole body,1
+2827,Synovial rupture,1
+2828,Joint instability,1
+2829,Eye infection,1
+2830,Premature separation of placenta,1
+2831,Ocular vascular disorder,1
+2832,Homeless,1
+2833,Substance abuse,1
+2834,Mesenteric arteriosclerosis,1
+2835,Actinomyces test positive,1
+2836,Bone marrow disorder,1
+2837,Fournier's gangrene,1
+2838,Hyperglycaemic hyperosmolar nonketotic syndrome,1
+2839,Necrotising soft tissue infection,1
+2840,Procalcitonin decreased,1
+2841,Overgrowth fungal,1
+2842,Multiple drug therapy,1
+2843,Shunt infection,1
+2844,Sputum increased,1
+2845,Vitamin B1 decreased,1
+2846,Gynaecomastia,1
+2847,Prolactin-producing pituitary tumour,1
+2848,Small airways disease,1
+2849,Tumour marker test,1
+2850,"Hallucinations, mixed",1
+2851,Enterococcal bacteraemia,1
+2852,Cirrhosis alcoholic,1
+2853,Hypovolaemic shock,1
+2854,Oesophageal varices haemorrhage,1
+2855,Upper gastrointestinal haemorrhage,1
+2856,Tricuspid valve repair,1
+2857,Biliary colic,1
+2858,Labour complication,1
+2859,Postmature baby,1
+2860,Postpartum haemorrhage,1
+2861,Trendelenburg position,1
+2862,Aldolase increased,1
+2863,Anti-platelet antibody positive,1
+2864,Anti-thyroid antibody positive,1
+2865,Lymph node palpable,1
+2866,Necrosis,1
+2867,Anaphylactic shock,1
+2868,Bone scan,1
+2869,Discogram abnormal,1
+2870,Pneumonia pseudomonal,1
+2871,Clostridium test positive,1
+2872,Muscle fatigue,1
+2873,Biopsy prostate abnormal,1
+2874,Bladder hypertrophy,1
+2875,Bone scan normal,1
+2876,Diverticulum intestinal,1
+2877,Femoral hernia,1
+2878,Gleason grading score,1
+2879,Hepatic lesion,1
+2880,Hydroureter,1
+2881,Inguinal hernia,1
+2882,Karnofsky scale,1
+2883,Post procedural urine leak,1
+2884,Prostatomegaly,1
+2885,Splenic granuloma,1
+2886,Ureteral catheterisation,1
+2887,Axillary vein thrombosis,1
+2888,Biopsy pharynx normal,1
+2889,Subclavian vein occlusion,1
+2890,Penile swelling,1
+2891,Ephelides,1
+2892,Primigravida,1
+2893,Blood donation,1
+2894,Large intestinal ulcer,1
+2895,Ocular discomfort,1
+2896,Vascular occlusion,1
+2897,Cardiovascular evaluation,1
+2898,Ankylosing spondylitis,1
+2899,Coronavirus test,1
+2900,Viral test positive,1
+2901,Cerebral haematoma,1
+2902,Personality disorder,1
+2903,Fear of death,1
+2904,Horner's syndrome,1
+2905,Ex-alcohol user,1
+2906,Ascites,1
+2907,Eustachian tube dysfunction,1
+2908,Non-alcoholic steatohepatitis,1
+2909,Peritonitis,1
+2910,Spontaneous bacterial peritonitis,1
+2911,Device malfunction,1
+2912,Device power source issue,1
+2913,Myositis,1
+2914,Ear haemorrhage,1
+2915,ACTH stimulation test abnormal,1
+2916,Cardiovascular autonomic function test,1
+2917,Pharyngeal erythema,1
+2918,Autoantibody positive,1
+2919,Bronchoscopy abnormal,1
+2920,Gingival bleeding,1
+2921,Hypertonic bladder,1
+2922,Pelvic organ prolapse,1
+2923,Therapeutic response shortened,1
+2924,Vascular pain,1
+2925,Magnetic resonance imaging abdominal,1
+2926,Facial spasm,1
+2927,Orthosis user,1
+2928,Thunderclap headache,1
+2929,Ultrasound foetal abnormal,1
+2930,Alcohol use,1
+2931,Compartment syndrome,1
+2932,Paget-Schroetter syndrome,1
+2933,Biopsy colon abnormal,1
+2934,Computerised tomogram coronary artery,1
+2935,Hypercholesterolaemia,1
+2936,Oedema due to cardiac disease,1
+2937,Haemoglobin urine,1
+2938,Hypochromasia,1
+2939,Microbiology test,1
+2940,Red blood cell macrocytes,1
+2941,Red blood cell microcytes,1
+2942,Red blood cell morphology,1
+2943,Urinary tract inflammation,1
+2944,Intervertebral disc operation,1
+2945,Intervertebral disc protrusion,1
+2946,Spinal laminectomy,1
+2947,Wound drainage,1
+2948,Blood magnesium increased,1
+2949,Specific gravity urine decreased,1
+2950,Quantitative sudomotor axon reflex test,1
+2951,Reflex test abnormal,1
+2952,Cerebellar atrophy,1
+2953,Sputum retention,1
+2954,Vertebral artery hypoplasia,1
+2955,Biopsy skin normal,1
+2956,Endoscopy upper gastrointestinal tract,1
+2957,Lesion excision,1
+2958,Oral papule,1
+2959,Coma scale normal,1
+2960,Oral discharge,1
+2961,Respiratory rate increased,1
+2962,Mucosal hypertrophy,1
+2963,Muscle rigidity,1
+2964,Breast cancer recurrent,1
+2965,Cholecystitis infective,1
+2966,Gallbladder neoplasm,1
+2967,Metastases to bone marrow,1
+2968,Fungaemia,1
+2969,Mitral valve repair,1
+2970,Concussion,1
+2971,Blood creatine increased,1
+2972,Glomerular filtration rate increased,1
+2973,Cortisol decreased,1
+2974,Electrolyte depletion,1
+2975,Adnexa uteri pain,1
+2976,Female reproductive tract disorder,1
+2977,Oophoritis,1
+2978,Suppressed lactation,1
+2979,Ultrasound breast abnormal,1
+2980,Uterine infection,1
+2981,Computerised tomogram coronary artery abnormal,1
+2982,Cor pulmonale,1
+2983,Heart sounds abnormal,1
+2984,Pulmonary endarterectomy,1
+2985,Therapeutic hypothermia,1
+2986,Skin atrophy,1
+2987,Brain stem infarction,1
+2988,Immunology test abnormal,1
+2989,Breast discharge,1
+2990,Intraductal proliferative breast lesion,1
+2991,Idiopathic angioedema,1
+2992,Blood blister,1
+2993,Body temperature abnormal,1
+2994,Idiopathic environmental intolerance,1
+2995,Autoimmune pancreatitis,1
+2996,Immunoglobulins increased,1
+2997,Adverse food reaction,1
+2998,Abdominal abscess,1
+2999,Exostosis,1
+3000,Biliary dilatation,1
+3001,Gallbladder oedema,1
+3002,Breast induration,1
+3003,Carpal tunnel decompression,1
+3004,Asthma-chronic obstructive pulmonary disease overlap syndrome,1
+3005,Oral pustule,1
+3006,Troponin abnormal,1
+3007,Antinuclear antibody increased,1
+3008,Gingival discolouration,1
+3009,Hyperaesthesia teeth,1
+3010,Cytokine storm,1
+3011,Capillary disorder,1
+3012,Pemphigus,1
+3013,Nucleic acid test,1
+3014,Drug eruption,1
+3015,Eye ulcer,1
+3016,Antiplatelet therapy,1
+3017,Blood thyroid stimulating hormone abnormal,1
+3018,Anion gap decreased,1
+3019,Blood corticotrophin normal,1
+3020,Breast cyst,1
+3021,Breast cyst drainage,1
+3022,Conjunctivitis bacterial,1
+3023,Corneal abrasion,1
+3024,Tri-iodothyronine,1
+3025,Vulvovaginal pain,1
+3026,Vulvovaginal swelling,1
+3027,Blood insulin increased,1
+3028,Ovarian germ cell teratoma,1
+3029,Cytomegalovirus test positive,1
+3030,Oxygen therapy,1
+3031,Superinfection bacterial,1
+3032,CD4 lymphocytes decreased,1
+3033,Albumin globulin ratio,1
+3034,Basilar artery stenosis,1
+3035,Glucose urine,1
+3036,Lipoprotein (a),1
+3037,Nitrite urine,1
+3038,Specific gravity urine,1
+3039,Very low density lipoprotein,1
+3040,pH urine,1
+3041,Extradural haematoma,1
+3042,Pneumocephalus,1
+3043,Skull fracture,1
+3044,Infertility male,1
+3045,Serology test,1
+3046,Biopsy heart,1
+3047,Throat clearing,1
+3048,CHA2DS2-VASc-score,1
+3049,Diarrhoea infectious,1
+3050,Stress echocardiogram,1
+3051,Blood fibrinogen increased,1
+3052,Lymphopenia,1
+3053,Jugular vein haemorrhage,1
+3054,Therapeutic embolisation,1
+3055,Selective eating disorder,1
+3056,Pityriasis rubra pilaris,1
+3057,Primary amyloidosis,1
+3058,Anion gap abnormal,1
+3059,Temperature regulation disorder,1
+3060,Blood iron increased,1
+3061,Peroneal nerve palsy,1
+3062,Respiratory arrest,1
+3063,West Nile viral infection,1
+3064,Coronavirus infection,1
+3065,Hypereosinophilic syndrome,1
+3066,Immunisation,1
+3067,Joint warmth,1
+3068,Stem cell transplant,1
+3069,Biopsy oesophagus abnormal,1
+3070,Herpes simplex oesophagitis,1
+3071,Annuloplasty,1
+3072,Pneumonia staphylococcal,1
+3073,Transaminases increased,1
+3074,Proteus infection,1
+3075,Tibia fracture,1
+3076,Intramedullary rod insertion,1
+3077,Post procedural haemorrhage,1
+3078,Injection site muscle weakness,1
+3079,Lung adenocarcinoma,1
+3080,Scan thyroid gland,1
+3081,Haemodilution,1
+3082,Reticulocyte count increased,1
+3083,Sickle cell anaemia with crisis,1
+3084,Tumour haemorrhage,1
+3085,Rib fracture,1
+3086,Chest tube removal,1
+3087,Cystic lung disease,1
+3088,Pneumothorax spontaneous,1
+3089,Drain placement,1
+3090,Ileostomy,1
+3091,Small cell carcinoma,1
+3092,Tumour rupture,1
+3093,Cholecystitis acute,1
+3094,Computerised tomogram intestine,1
+3095,Oesophagogastroduodenoscopy normal,1
+3096,Ear infection bacterial,1
+3097,Bronchoscopy normal,1
+3098,Joint contracture,1
+3099,Glucose tolerance test,1
+3100,Polyneuropathy,1
+3101,Vitamin B12 deficiency,1
+3102,Stomatitis,1
+3103,Troponin T increased,1
+3104,Alopecia totalis,1
+3105,Coagulation factor,1
+3106,Epidural injection,1
+3107,Retroperitoneal oedema,1
+3108,Anorectal disorder,1
+3109,Craniectomy,1
+3110,Haematoma evacuation,1
+3111,Loss of proprioception,1
+3112,Oversensing,1
+3113,Post concussion syndrome,1
+3114,Biopsy kidney,1
+3115,Furuncle,1
+3116,Skin striae,1
+3117,Nerve conduction studies abnormal,1
+3118,Aortic valve stenosis,1
+3119,Insulin-requiring type 2 diabetes mellitus,1
+3120,Eye abrasion,1
+3121,Orbital haematoma,1
+3122,Cardiac telemetry normal,1
+3123,Gamma-glutamyltransferase normal,1
+3124,Pulmonary hilum mass,1
+3125,Cholangiocarcinoma,1
+3126,Hepatic cancer metastatic,1
+3127,Alport's syndrome,1
+3128,Neurone-specific enolase increased,1
+3129,Status epilepticus,1
+3130,Wound infection,1
+3131,Bradyarrhythmia,1
+3132,Induced labour,1
+3133,Middle ear disorder,1
+3134,No reaction on previous exposure to drug,1
+3135,Ultrasound ovary abnormal,1
+3136,Dermatitis bullous,1
+3137,Erysipelas,1
+3138,Breast angiosarcoma,1
+3139,Delivery,1
+3140,Thyroid neoplasm,1
+3141,Renal cancer,1
+3142,Renal surgery,1
+3143,Greater trochanteric pain syndrome,1
+3144,Asthenopia,1
+3145,Post vaccination syndrome,1
+3146,Abscess,1
+3147,Aversion,1
+3148,Coronary artery aneurysm,1
+3149,Ocular sarcoidosis,1
+3150,Faecal calprotectin,1
+3151,Haemoglobin increased,1
+3152,Blood immunoglobulin D,1
+3153,Intrinsic factor antibody,1
+3154,Rheumatoid factor quantitative,1
+3155,Capillary nail refill test,1
+3156,Creatinine renal clearance increased,1
+3157,Skin perfusion pressure test,1
+3158,Interleukin level,1
+3159,Monocyte percentage decreased,1
+3160,Haemodynamic instability,1
+3161,Monocyte count decreased,1
+3162,Humerus fracture,1
+3163,Shoulder arthroplasty,1
+3164,Bacterial translocation,1
+3165,Cholecystitis chronic,1
+3166,Escherichia bacteraemia,1
+3167,Accident at work,1
+3168,Activated protein C resistance,1
+3169,Blood fibrinogen,1
+3170,Tendon injury,1
+3171,Thrombin time,1
+3172,Upper limb fracture,1
+3173,Duodenogastric reflux,1
+3174,Vein disorder,1
+3175,Vaccination site reaction,1
+3176,Breath sounds,1
+3177,Heart sounds,1
+3178,Large intestinal stenosis,1
+3179,Lung transplant,1
+3180,Vaccination site hypoaesthesia,1
+3181,Crime,1
+3182,Alpha-1 anti-trypsin,1
+3183,Antimitochondrial antibody,1
+3184,Hepatitis B antibody,1
+3185,Hepatitis B surface antigen,1
+3186,Liver-kidney microsomal antibody,1
+3187,Ocular icterus,1
+3188,Acinetobacter test,1
+3189,Drug screen,1
+3190,Enterococcus test,1
+3191,Escherichia test negative,1
+3192,Haemophilus test,1
+3193,Klebsiella test,1
+3194,Listeria test,1
+3195,Neisseria test negative,1
+3196,Pseudomonas test,1
+3197,Salmonella test negative,1
+3198,Soft tissue swelling,1
+3199,Sternotomy,1
+3200,Dry gangrene,1
+3201,Peripheral artery occlusion,1
+3202,Diffuse alopecia,1
+3203,Abdominal mass,1
+3204,Ligament pain,1
+3205,Surgical failure,1
+3206,Skin fissures,1
+3207,Bronchial disorder,1
+3208,Aspiration joint normal,1
+3209,Lumbar spinal stenosis,1
+3210,Uterine disorder,1
+3211,Angiotensin converting enzyme decreased,1
+3212,Anti-GAD antibody negative,1
+3213,Anti-NMDA antibody negative,1
+3214,Anti-ganglioside antibody negative,1
+3215,Anti-thyroid antibody,1
+3216,Autoantibody negative,1
+3217,Biopsy brain abnormal,1
+3218,Blood smear test abnormal,1
+3219,CD4 lymphocytes normal,1
+3220,CSF immunoglobulin G index,1
+3221,CSF immunoglobulin increased,1
+3222,CSF lymphocyte count increased,1
+3223,CSF neutrophil count increased,1
+3224,CSF oligoclonal band absent,1
+3225,CSF pressure increased,1
+3226,CSF red blood cell count positive,1
+3227,CSF test abnormal,1
+3228,Cytology abnormal,1
+3229,Diffusion-weighted brain MRI abnormal,1
+3230,Encephalomyelitis,1
+3231,Gram stain negative,1
+3232,Granulocytosis,1
+3233,Haemoglobinopathy,1
+3234,Hypermetabolism,1
+3235,IVth nerve paralysis,1
+3236,Imaging procedure artifact,1
+3237,Intracranial hypotension,1
+3238,Lymphocytic infiltration,1
+3239,Meningism,1
+3240,Meningitis aseptic,1
+3241,Mycobacterium tuberculosis complex test negative,1
+3242,Opsoclonus myoclonus,1
+3243,Optic nerve disorder,1
+3244,Perfusion brain scan,1
+3245,Pituitary hyperplasia,1
+3246,Pituitary scan abnormal,1
+3247,Platelet morphology abnormal,1
+3248,Pleocytosis,1
+3249,Post lumbar puncture syndrome,1
+3250,Radiculopathy,1
+3251,Red blood cell count abnormal,1
+3252,Sideroblastic anaemia,1
+3253,Thalassaemia,1
+3254,Toxoplasma serology negative,1
+3255,Treponema test negative,1
+3256,Venogram abnormal,1
+3257,Viral test negative,1
+3258,Vitamin B6,1
+3259,West Nile virus test negative,1
+3260,Cogwheel rigidity,1
+3261,Meningioma,1
+3262,Ear congestion,1
+3263,Eustachian tube disorder,1
+3264,Emphysematous cystitis,1
+3265,Neck mass,1
+3266,Bile duct stone,1
+3267,Bladder neck operation,1
+3268,Vitamin K,1
+3269,Brain herniation,1
+3270,Toxicologic test normal,1
+3271,Cardiovascular examination,1
+3272,Aldolase,1
+3273,Complement factor,1
+3274,Subacute cutaneous lupus erythematosus,1
+3275,Acute generalised exanthematous pustulosis,1
+3276,Humoral immune defect,1
+3277,Blood ketone body,1
+3278,Insulin C-peptide,1
+3279,Urine output increased,1
+3280,Patient uncooperative,1
+3281,Shift to the left,1
+3282,Tachyarrhythmia,1
+3283,pH urine increased,1
+3284,Aspartate aminotransferase decreased,1
+3285,Peyronie's disease,1
+3286,Gastric disorder,1
+3287,Cerebellar ataxia,1
+3288,Nerve stimulation test normal,1
+3289,Neurological examination normal,1
+3290,Prone position,1
+3291,Bone density abnormal,1
+3292,Hypoventilation,1
+3293,Pulmonary arterial pressure increased,1
+3294,Device related infection,1
+3295,Juvenile myoclonic epilepsy,1
+3296,Hepatic pain,1
+3297,Blood urine,1
+3298,Cardiac procedure complication,1
+3299,Idiopathic pulmonary fibrosis,1
+3300,Blister rupture,1
+3301,Myocardial necrosis marker normal,1
+3302,Arterial thrombosis,1
+3303,Dark circles under eyes,1
+3304,Device related thrombosis,1
+3305,Bladder outlet obstruction,1
+3306,Urine output,1
+3307,Cardiovascular deconditioning,1
+3308,Abscess limb,1
+3309,Blood thyroid stimulating hormone increased,1
+3310,Parasitic test,1
+3311,Emotional poverty,1
+3312,Botulinum toxin injection,1
+3313,Neuromyelitis optica spectrum disorder,1
+3314,Vaccination site inflammation,1
+3315,Eczema nummular,1
+3316,Parakeratosis,1
+3317,Vascular purpura,1
+3318,Gastrointestinal pain,1
+3319,Visual snow syndrome,1
+3320,Upper motor neurone lesion,1
+3321,Simple partial seizures,1
+3322,Spinal cord injury,1
+3323,Vitreous detachment,1
+3324,Auditory disorder,1
+3325,Immune tolerance induction,1
+3326,Benzodiazepine drug level,1
+3327,Coronavirus test negative,1
+3328,Enzyme level abnormal,1
+3329,Mouth injury,1
+3330,Respirovirus test,1
+3331,Angiogram retina abnormal,1
+3332,Retinal oedema,1
+3333,Housebound,1
+3334,Colon operation,1
+3335,Mass excision,1
+3336,Pancreatitis necrotising,1
+3337,Pneumonia klebsiella,1
+3338,Tissue injury,1
+3339,Hodgkin's disease,1
+3340,Diet refusal,1
+3341,Scalp haematoma,1
+3342,Bladder diverticulum,1
+3343,Faecal elastase test,1
+3344,Pancreatitis acute,1
+3345,Ultrasound abdomen normal,1
+3346,Intercepted medication error,1
+3347,Anembryonic gestation,1
+3348,Uterine dilation and evacuation,1
+3349,Folliculitis,1
+3350,Bronchial hyperreactivity,1
+3351,Vestibular function test abnormal,1
+3352,Alpha 1 foetoprotein increased,1
+3353,Oesophageal carcinoma,1
+3354,Bladder cancer stage IV,1
+3355,Bladder neoplasm,1
+3356,Bladder neoplasm surgery,1
+3357,Cystoscopy abnormal,1
+3358,Jaundice,1
+3359,Metastatic carcinoma of the bladder,1
+3360,Biopsy endometrium abnormal,1
+3361,Ultrasound scan vagina,1
+3362,Ultrasound breast normal,1
+3363,Model for end stage liver disease score increased,1
+3364,Mole excision,1
+3365,Breast enlargement,1
+3366,Computerised tomogram kidney abnormal,1
+3367,Lithotripsy,1
+3368,Thrombosis prophylaxis,1
+3369,Tic,1
+3370,SARS-CoV-2 viraemia,1
+3371,Shoulder operation,1
+3372,Pharyngo-oesophageal diverticulum,1
+3373,Portal hypertensive gastropathy,1
+3374,Hepatitis acute,1
+3375,Toxicity to various agents,1
+3376,Adenocarcinoma of colon,1
+3377,Melaena,1
+3378,Eye complication associated with device,1
+3379,Eyelid irritation,1
+3380,Swelling of eyelid,1
+3381,Telangiectasia,1
+3382,Inflammatory bowel disease,1
+3383,Lip oedema,1
+3384,Burns second degree,1
+3385,Amyloidosis,1
+3386,Biopsy bone,1
+3387,Biopsy bone abnormal,1
+3388,Thoracic operation,1
+3389,Kidney rupture,1
+3390,Malignant hypertension,1
+3391,Bronchitis bacterial,1
+3392,Oromandibular dystonia,1
+3393,Catheter management,1
+3394,Enterobacter test positive,1
+3395,Intellectual disability,1
+3396,Oesophageal stenosis,1
+3397,Panic disorder,1
+3398,Aortic root compression,1
+3399,Death of relative,1
+3400,Eosinophil percentage increased,1
+3401,Fibrin D dimer decreased,1
+3402,Foreign body,1
+3403,Serology abnormal,1
+3404,Venous pressure jugular increased,1
+3405,Diabetic nephropathy,1
+3406,Electrocardiogram T wave inversion,1
+3407,Lung neoplasm,1
